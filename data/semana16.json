@@ -1,0 +1,93 @@
+{
+    "semana": 16,
+    "dias": {
+        "lunes": {
+            "titulo": "Back Squat (Deload) + WOD Técnico",
+            "ejercicios": [
+                "A. Back Squat – 4x3 @ 60%",
+                "B. Accesorios (2 rondas):",
+                "- 10 Lunges",
+                "- 15 Hip Bridges",
+                "- 20 Sit-ups",
+                "C. WOD – 'Smooth Start' (cap 10’):",
+                "- 3 rondas:",
+                "- 10 Front Squats (95 lb)",
+                "- 10 Box Jumps",
+                "- 10 Burpees suaves"
+            ]
+        },
+        "martes": {
+            "titulo": "Técnica de Snatch + Core y Movilidad",
+            "ejercicios": [
+                "A. Técnica Snatch – 6 sets ligeros (50–60%) enfocando posición final",
+                "B. Accesorios Core (3 rondas):",
+                "- 15 V-ups",
+                "- 20 Russian Twists",
+                "- 1’ Hollow Hold",
+                "C. Cardio controlado:",
+                "- 15’ Row o Bike a ritmo medio"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean & Jerk Ligero + WOD Corto",
+            "ejercicios": [
+                "A. Clean & Jerk – 5 sets (2+1) @ 60%",
+                "B. Accesorios (2 rondas):",
+                "- 10 DB Shoulder Press",
+                "- 10 Lateral Raises",
+                "- 15 Superman Holds",
+                "C. WOD – 'Light Engine' (cap 12’):",
+                "- 21-15-9:",
+                "- Power Cleans (95 lb)",
+                "- Push-ups",
+                "- 200m Run"
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift (Deload) + WOD Largo Suave",
+            "ejercicios": [
+                "A. Deadlift – 4x5 @ 60%",
+                "B. Accesorios (2 rondas):",
+                "- 10 Romanian Deadlifts",
+                "- 15 Step-ups sin peso",
+                "- 20 Sit-ups",
+                "C. AMRAP 25:",
+                "- 400m Run",
+                "- 15 Pull-ups",
+                "- 20 Air Squats",
+                "- 10 Cal Row"
+            ]
+        },
+        "viernes": {
+            "titulo": "Retesteo Parcial + WOD Corto",
+            "ejercicios": [
+                "A. Test 3RM Front Squat o Bench Press (elige uno)",
+                "B. WOD – 'Mini Test' (cap 8’):",
+                "- 5 rondas:",
+                "- 5 Power Cleans (115 lb)",
+                "- 10 Toes to Bar",
+                "- 15 Air Squats"
+            ]
+        },
+        "sabado": {
+            "titulo": "Hero Suave + Cierre del Bloque",
+            "ejercicios": [
+                "‘Mini Murph’ – For Time (cap 25’):",
+                "- 800m Run",
+                "- 50 Pull-ups",
+                "- 100 Push-ups",
+                "- 150 Air Squats",
+                "- 800m Run",
+                "Adaptar el volumen si es necesario, mantener técnica y respiración controlada"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación Total",
+            "ejercicios": [
+                "Movilidad guiada (hombros, cadera, espalda baja)",
+                "Foam roller o masaje",
+                "Caminata ligera, hidratación y sueño de calidad"
+            ]
+        }
+    }
+}

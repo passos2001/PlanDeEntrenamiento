@@ -1,0 +1,108 @@
+{
+    "semana": 14,
+    "dias": {
+        "lunes": {
+            "titulo": "Front Squat + WOD Corto de Potencia",
+            "ejercicios": [
+                "A. Front Squat – 5x5 @ 75%",
+                "B. Accesorios (3 rondas):",
+                "- 10 Bulgarian Split Squats por pierna",
+                "- 12 Glute Bridges",
+                "- 15 Sit-ups",
+                "C. WOD – 'Quick Legs' (cap 9’):",
+                "- 3 rondas:",
+                "- 10 Front Squats (115 lb)",
+                "- 10 Burpees Over Bar",
+                "- 100m Run"
+            ]
+        },
+        "martes": {
+            "titulo": "Pull + Conditioning Largo",
+            "ejercicios": [
+                "A. Strength – Deadlift 4x6 @ 75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 DB Rows",
+                "- 12 Barbell Curls",
+                "- 20 Hollow Rocks",
+                "C. AMRAP 25:",
+                "- 400m Run",
+                "- 15 Pull-ups",
+                "- 15 KB Swings (24 kg)",
+                "- 20 Box Step-ups"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Complejo + WOD Gimnástico",
+            "ejercicios": [
+                "A. Técnica – Snatch Complex (5 sets):",
+                "- 1 Snatch Pull",
+                "- 1 Hang Snatch",
+                "- 1 Overhead Squat",
+                "- 1 Snatch Balance @ 70%",
+                "B. Accesorios (3 rondas):",
+                "- 12 DB Shoulder Press",
+                "- 12 Face Pulls",
+                "- 15 Toes to Bar estrictos",
+                "C. WOD – 'Float' (cap 12’):",
+                "- 4 rondas:",
+                "- 10 Chest to Bar Pull-ups",
+                "- 10 Box Jump Overs",
+                "- 10 Push Jerks (115 lb)"
+            ]
+        },
+        "jueves": {
+            "titulo": "Fuerza Mixta + Chipper Infernal",
+            "ejercicios": [
+                "A. Back Squat – 4x8 @ 70%",
+                "B. Bench Press – 4x8 @ 70%",
+                "C. Chipper – 'Engine Builder' (cap 25’):",
+                "- 800m Run",
+                "- 50 Wall Balls",
+                "- 40 Sit-ups",
+                "- 30 Deadlifts (135 lb)",
+                "- 20 Pull-ups",
+                "- 10 Clean & Jerks (135 lb)"
+            ]
+        },
+        "viernes": {
+            "titulo": "Clean & Jerk + EMOM de Alta Intensidad",
+            "ejercicios": [
+                "A. Técnica – Clean & Jerk Complex (5 sets):",
+                "- 1 Clean Pull",
+                "- 1 Power Clean",
+                "- 1 Jerk @ 70–75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Push-ups con tempo",
+                "- 12 Upright Rows",
+                "- 1’ Plancha frontal",
+                "C. EMOM 20:",
+                "- Min 1: 10 Thrusters (95 lb)",
+                "- Min 2: 12 Cal Row",
+                "- Min 3: 10 Burpees",
+                "- Min 4: Descanso"
+            ]
+        },
+        "sabado": {
+            "titulo": "Hero WOD Largo de Resistencia y Gimnásticos",
+            "ejercicios": [
+                "‘Hero Endurance’ – For Time (cap 40’):",
+                "- 100 Double Unders",
+                "- 800m Run",
+                "- 50 Pull-ups",
+                "- 40 Push-ups",
+                "- 30 Power Cleans (95 lb)",
+                "- 20 Front Squats (95 lb)",
+                "- 10 Bar Muscle-ups",
+                "- 400m Run final"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Movilidad Activa",
+            "ejercicios": [
+                "Estiramientos dinámicos",
+                "Rodillo miofascial (foam roller)",
+                "Caminata ligera o natación suave"
+            ]
+        }
+    }
+}

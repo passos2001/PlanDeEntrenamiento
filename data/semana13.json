@@ -1,0 +1,111 @@
+{
+    "semana": 13,
+    "dias": {
+        "lunes": {
+            "titulo": "Técnica de Clean + WOD Corto de Transición",
+            "ejercicios": [
+                "A. Técnica – Clean Complex (6 sets):",
+                "- 1 Power Clean",
+                "- 1 Front Squat",
+                "- 1 Hang Clean",
+                "- 1 Jerk @ 65–70%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Front Rack Lunges",
+                "- 12 Hip Thrusts",
+                "- 15 Ab Rollouts",
+                "C. WOD – 'Restart Engine' (cap 10’):",
+                "- 21-15-9",
+                "- Power Clean (95 lb)",
+                "- Burpees Over Bar",
+                "- Air Squats"
+            ]
+        },
+        "martes": {
+            "titulo": "Pull + Core + Conditioning Largo",
+            "ejercicios": [
+                "A. Strength – Weighted Pull-ups 5x5",
+                "B. Accesorios (4 rondas):",
+                "- 12 Barbell Rows",
+                "- 12 Curl Biceps",
+                "- 15 Hanging Knee Raises",
+                "C. AMRAP 25:",
+                "- 400m Run",
+                "- 20 KB Swings (24 kg)",
+                "- 15 Toes to Bar",
+                "- 12 Push-ups",
+                "- 10 Box Jumps"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Técnico + WOD Gimnástico",
+            "ejercicios": [
+                "A. Técnica – Snatch Complex (6 sets):",
+                "- 1 Hang Snatch",
+                "- 1 Overhead Squat",
+                "- 1 Snatch Balance @ 60–70%",
+                "B. Accesorios (3 rondas):",
+                "- 12 DB Overhead Press",
+                "- 12 Bent-over Row",
+                "- 20 Hollow Rocks",
+                "C. WOD – 'Air Time' (cap 14’):",
+                "- 4 rondas:",
+                "- 10 Chest to Bar Pull-ups",
+                "- 10 Box Jump Overs",
+                "- 200m Run",
+                "- 10 Handstand Push-ups"
+            ]
+        },
+        "jueves": {
+            "titulo": "Fuerza Piernas + Chipper",
+            "ejercicios": [
+                "A. Back Squat – 4x8 @ 70%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Step-ups pesados",
+                "- 12 Romanian Deadlifts",
+                "- 1’ Side Plank por lado",
+                "C. Chipper – 'Leg Smash' (cap 25’):",
+                "- 100 Double Unders",
+                "- 80 Air Squats",
+                "- 60 Lunges",
+                "- 40 Wall Balls",
+                "- 20 Jumping Squats"
+            ]
+        },
+        "viernes": {
+            "titulo": "Push Upper + WOD Intervalado",
+            "ejercicios": [
+                "A. Bench Press – 5x5 @ 70%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Incline DB Press",
+                "- 12 Tríceps Dips",
+                "- 12 Lateral Raises",
+                "C. EMOM 20:",
+                "- Min 1: 12 Cal Row",
+                "- Min 2: 12 Thrusters (95 lb)",
+                "- Min 3: 12 Burpees",
+                "- Min 4: Descanso"
+            ]
+        },
+        "sabado": {
+            "titulo": "Partner WOD Largo (Resistencia y Trabajo en Equipo)",
+            "ejercicios": [
+                "‘Team Grind’ – For Time (con compañero, cap 40’):",
+                "- 1000m Run juntos",
+                "- 100 Pull-ups (partidos como deseen)",
+                "- 80 Wall Balls",
+                "- 60 Deadlifts (135 lb)",
+                "- 40 Handstand Push-ups",
+                "- 20 Clean & Jerks (135 lb)",
+                "- 1000m Run juntos"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Movilidad",
+            "ejercicios": [
+                "Movilidad general",
+                "Foam roller",
+                "Caminata ligera o yoga"
+            ]
+        }
+    }
+}

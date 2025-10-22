@@ -1,0 +1,101 @@
+{
+    "semana": 15,
+    "dias": {
+        "lunes": {
+            "titulo": "Back Squat + WOD Corto Pesado",
+            "ejercicios": [
+                "A. Back Squat – 6x3 @ 80%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Step-ups con barra",
+                "- 12 Hip Thrusts",
+                "- 20 Sit-ups",
+                "C. WOD – 'Heavy Legs' (cap 10’):",
+                "- 21-15-9",
+                "- Front Squats (115 lb)",
+                "- Burpees Over Bar"
+            ]
+        },
+        "martes": {
+            "titulo": "Pull + AMRAP Largo",
+            "ejercicios": [
+                "A. Weighted Pull-ups – 5x5",
+                "B. Accesorios (3 rondas):",
+                "- 12 Barbell Rows",
+                "- 12 Hammer Curls",
+                "- 15 Reverse Hypers o Superman Holds",
+                "C. AMRAP 25:",
+                "- 400m Run",
+                "- 15 Toes to Bar",
+                "- 20 KB Swings (24 kg)",
+                "- 15 Push-ups",
+                "- 10 Box Jump Overs"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch + EMOM Gimnástico",
+            "ejercicios": [
+                "A. Técnica – 6 sets (2 Hang Snatch + 1 Squat Snatch) @ 75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 DB Shoulder Press",
+                "- 12 Lateral Raises",
+                "- 1’ Hollow Hold",
+                "C. EMOM 18:",
+                "- Min 1: 12 Chest to Bar Pull-ups",
+                "- Min 2: 10 Power Snatch (95 lb)",
+                "- Min 3: 12 Cal Row"
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift + Chipper Extendido",
+            "ejercicios": [
+                "A. Deadlift – 5x5 @ 75%",
+                "B. Accesorios (3 rondas):",
+                "- 10 Romanian Deadlifts",
+                "- 10 Step-back Lunges",
+                "- 1’ Side Plank por lado",
+                "C. Chipper – 'The Grinder' (cap 30’):",
+                "- 100 Double Unders",
+                "- 80 Wall Balls",
+                "- 60 Sit-ups",
+                "- 40 Deadlifts (135 lb)",
+                "- 20 Bar Facing Burpees"
+            ]
+        },
+        "viernes": {
+            "titulo": "Clean & Jerk + Intervalos Mixtos",
+            "ejercicios": [
+                "A. Clean & Jerk – 6 sets (2 Cleans + 1 Jerk) @ 75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Incline DB Press",
+                "- 12 Tríceps Pushdowns",
+                "- 15 Russian Twists",
+                "C. EMOM 20:",
+                "- Min 1: 12 Cal Bike",
+                "- Min 2: 10 Thrusters (95 lb)",
+                "- Min 3: 12 Burpees",
+                "- Min 4: Descanso"
+            ]
+        },
+        "sabado": {
+            "titulo": "Hero WOD Largo (Resistencia y Volumen)",
+            "ejercicios": [
+                "‘The Titan’ – For Time (cap 45’):",
+                "- 1000m Run",
+                "- 50 Pull-ups",
+                "- 40 Push Press (95 lb)",
+                "- 30 Deadlifts (135 lb)",
+                "- 20 Overhead Squats (95 lb)",
+                "- 10 Bar Muscle-ups",
+                "- 1000m Run final"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Movilidad",
+            "ejercicios": [
+                "Movilidad activa de cadera, hombros y espalda baja",
+                "Rodillo miofascial",
+                "Caminata o bicicleta suave (20–30 min)"
+            ]
+        }
+    }
+}
