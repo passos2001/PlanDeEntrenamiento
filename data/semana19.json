@@ -1,0 +1,106 @@
+{
+    "semana": 19,
+    "dias": {
+        "lunes": {
+            "titulo": "Fuerza Piernas + WOD Sprint con HSW",
+            "ejercicios": [
+                "A. Back Squat – 5x3 @ 80%",
+                "B. Accesorios (3 rondas):",
+                "- 10 Front Rack Lunges",
+                "- 12 Hip Thrusts",
+                "- 20 Hollow Rocks",
+                "C. WOD – 'Speed Walk' (cap 12’):",
+                "- 4 rondas:",
+                "- 12 Deadlifts (155 lb)",
+                "- 8 Hang Power Cleans (155 lb)",
+                "- 20m Handstand Walk"
+            ]
+        },
+        "martes": {
+            "titulo": "Gimnasia + Conditioning Largo",
+            "ejercicios": [
+                "A. Gimnasia (6 rondas por calidad):",
+                "- 3 Bar Muscle Ups",
+                "- 5 Chest to Bar",
+                "- 10 Toes to Bar",
+                "B. Accesorios (3 rondas):",
+                "- 12 Ring Rows",
+                "- 15 GHD Sit-ups (o 20 V-ups)",
+                "C. AMRAP 30:",
+                "- 500m Row",
+                "- 20 KB Swings (24 kg)",
+                "- 15 Push-ups",
+                "- 200m Run",
+                "- 6 Wall Walks"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean & Jerk + WOD Técnico",
+            "ejercicios": [
+                "A. Complejo – 6 sets @ 70%:",
+                "- 1 Power Clean",
+                "- 1 Front Squat",
+                "- 1 Jerk",
+                "B. WOD – 'Lift & Push' (cap 15’):",
+                "- 5 rondas:",
+                "- 8 Clean & Jerks (95 lb)",
+                "- 10 HSPU",
+                "- 12 Box Jump Overs"
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift Pesado + Chipper Mixto",
+            "ejercicios": [
+                "A. Deadlift – 4x4 @ 82%",
+                "B. Accesorios (3 rondas):",
+                "- 12 RDL",
+                "- 12 Split Squats",
+                "- 1’ Side Plank por lado",
+                "C. Chipper – 'Shoulder Engine' (cap 28’):",
+                "- 100 Double Unders",
+                "- 40 Pull-ups",
+                "- 30 Deadlifts (135 lb)",
+                "- 20 HSW (20–30m acumulados)",
+                "- 10 Ring Muscle Ups",
+                "- 800m Run"
+            ]
+        },
+        "viernes": {
+            "titulo": "Push Day + EMOM Fuerte",
+            "ejercicios": [
+                "A. Bench Press – 5x5 @ 70%",
+                "B. Accesorios (3 rondas):",
+                "- 12 DB Shoulder Press",
+                "- 12 Tríceps Rope",
+                "- 12 Lateral Raises",
+                "C. EMOM 20:",
+                "- Min 1: 12 Cal Bike",
+                "- Min 2: 12 Burpees Over Bar",
+                "- Min 3: 12 Thrusters (95 lb)",
+                "- Min 4: Descanso"
+            ]
+        },
+        "sabado": {
+            "titulo": "Hero WOD Largo (Skill + Engine)",
+            "ejercicios": [
+                "‘Iron Resolve’ – For Time (cap 45’):",
+                "- 1000m Run",
+                "- 50 Wall Balls",
+                "- 40 Push-ups",
+                "- 30 Box Jumps",
+                "- 20 Clean & Jerks (135 lb)",
+                "- 20 Chest to Bar",
+                "- 10 Ring Muscle Ups",
+                "- 1000m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso Activo / Movilidad",
+            "ejercicios": [
+                "Caminata 30–40 min",
+                "Foam Roller",
+                "Movilidad de hombros y cadera"
+            ]
+        }
+    }
+}
