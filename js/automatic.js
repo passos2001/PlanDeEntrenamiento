@@ -1,8 +1,8 @@
 const semanasMap = {
-  semana1: 17,
-  semana2: 18,
-  semana3: 19,
-  semana4: 20
+  semana1: 21,
+  semana2: 22,
+  semana3: 23,
+  semana4: 24
 };
 
 async function cargarSemana(semanaHtmlId, semanaNumero) {

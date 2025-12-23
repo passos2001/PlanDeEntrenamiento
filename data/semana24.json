@@ -1,0 +1,104 @@
+{
+    "semana": 24,
+    "dias": {
+        "lunes": {
+            "titulo": "Back Squat + WOD Metabólico",
+            "ejercicios": [
+                "A. Back Squat – 5x5 @ 72–75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Lunges con barra",
+                "- 15 Hip Thrusts",
+                "- 20 Abmat Sit-ups",
+                "C. WOD – 'Leg Engine' (cap 15’):",
+                "- 4 rondas:",
+                "- 12 Thrusters (95 lb)",
+                "- 12 Box Jump Overs",
+                "- 200m Run"
+            ]
+        },
+        "martes": {
+            "titulo": "Gimnasia Avanzada + Conditioning Largo",
+            "ejercicios": [
+                "A. Skill (5 rondas por calidad):",
+                "- 4 Strict HSPU",
+                "- 6 Kipping HSPU",
+                "- 10 Toes to Bar",
+                "B. Accesorios (3 rondas):",
+                "- 12 DB Row",
+                "- 15 Hollow Rocks",
+                "C. AMRAP 28:",
+                "- 400m Run",
+                "- 20 KB Swings (24 kg)",
+                "- 15 Push-ups",
+                "- 10 Chest to Bar Pull-ups",
+                "- 200m Farmer Carry"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch + Handstand Walking",
+            "ejercicios": [
+                "A. Snatch – 6x2 @ 75–80%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Overhead Squats ligeros",
+                "- 15 Face Pulls",
+                "C. WOD – 'Overhead Walk' (cap 12’):",
+                "- 21-15-9:",
+                "- Power Snatch (75–95 lb)",
+                "- Handstand Walking (10m por ronda)"
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift + Chipper Mixto",
+            "ejercicios": [
+                "A. Deadlift – 5x4 @ 75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 RDL",
+                "- 12 Bulgarian Split Squats",
+                "- 1’ Side Plank por lado",
+                "C. Chipper – 'Full Capacity' (cap 30’):",
+                "- 100 Double Unders",
+                "- 800m Run",
+                "- 40 Pull-ups",
+                "- 30 Deadlifts (135 lb)",
+                "- 20 HSPU",
+                "- 10 Bar Muscle Ups"
+            ]
+        },
+        "viernes": {
+            "titulo": "Push / Press + Intervalos",
+            "ejercicios": [
+                "A. Push Press – 5x5 @ 70–75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 DB Shoulder Press",
+                "- 12 Tríceps Rope",
+                "- 12 Lateral Raises",
+                "C. EMOM 20:",
+                "- Min 1: 12 Cal Bike",
+                "- Min 2: 15 Wall Balls",
+                "- Min 3: 12 Burpees",
+                "- Min 4: Descanso"
+            ]
+        },
+        "sabado": {
+            "titulo": "Hero WOD – Cierre del Bloque",
+            "ejercicios": [
+                "‘Final Forge’ – For Time (cap 45’):",
+                "- 1200m Run",
+                "- 50 Wall Balls",
+                "- 40 Toes to Bar",
+                "- 30 Clean & Jerks (135 lb)",
+                "- 20 Handstand Push-ups",
+                "- 10 Ring Muscle Ups",
+                "- 1200m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad general",
+                "Foam roller",
+                "Caminata suave"
+            ]
+        }
+    }
+}
