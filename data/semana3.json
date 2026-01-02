@@ -1,0 +1,71 @@
+{
+    "semana": 3,
+    "dias": {
+        "lunes": {
+            "titulo": "Fuerza de Tracción + Intervalos Cortos",
+            "ejercicios": [
+                "Fuerza: Deadlift 5x5 @ 70%",
+                "EMOM 12’:",
+                "Min 1: 12/10 Cal Row",
+                "Min 2: 10 Pull Ups",
+                "Min 3: 8 Toes to Bar"
+            ]
+        },
+        "martes": {
+            "titulo": "Gimnasia Invertida + WOD Controlado",
+            "ejercicios": [
+                "Skill: 6x20m Handstand Walking",
+                "4 Rondas For Time:",
+                "20 Wall Balls",
+                "12 Handstand Push Ups",
+                "10 Box Jumps"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Day",
+            "ejercicios": [
+                "Snatch 6x2 @ 75–80%",
+                "Snatch Pull 3x3 @ 90%",
+                "Accessory: 3x12 Hip Extensions",
+                "Accessory: 3x10 Snatch Grip Rows"
+            ]
+        },
+        "jueves": {
+            "titulo": "WOD Aeróbico Extenso",
+            "ejercicios": [
+                "Engine Builder – For Time (cap 35’):",
+                "800m Run",
+                "60 KB Swings",
+                "40 Sit-Ups",
+                "800m Run",
+                "60 Lunges",
+                "40 Push Ups"
+            ]
+        },
+        "viernes": {
+            "titulo": "Clean & Jerk + WOD Pesado",
+            "ejercicios": [
+                "Clean & Jerk 7x1 @ 80–85%",
+                "EMOM 10’: 1 Clean & Jerk (75–80%) + 5 Burpees Over Bar"
+            ]
+        },
+        "sabado": {
+            "titulo": "Hero WOD – White",
+            "ejercicios": [
+                "5 Rondas (cap 40’):",
+                "3 Rope Climbs",
+                "10 Toes to Bar",
+                "400m Run",
+                "10 Power Cleans (135/95 lb)"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad ligera",
+                "Caminata suave",
+                "Foam roller"
+            ]
+        }
+    }
+}
