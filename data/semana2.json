@@ -2,103 +2,100 @@
     "semana": 2,
     "dias": {
         "lunes": {
-            "titulo": "Piernas Pesadas + WOD de Transiciones",
+            "titulo": "Back Squat Pause + WOD Explosivo",
             "ejercicios": [
-                "A. Front Squat – 6x3 @ 75%",
+                "A. Pause Back Squat – 6x3 @ 70% (2s pausa abajo)",
                 "B. Accesorios (3 rondas):",
-                "- 12 Step-ups con barra",
-                "- 12 Good Mornings",
-                "- 20 V-ups",
-                "C. WOD – 'Leg Switch' (cap 15’):",
+                "- 12 Reverse Lunges con barra",
+                "- 15 Goblet Squats",
+                "- 30s Hollow Hold",
+                "C. WOD – 'Leg Snap' (cap 12’):",
                 "- 5 rondas:",
-                "- 12 Thrusters (95 lb)",
-                "- 10 Box Jump Overs",
-                "- 8 Burpees Over Bar"
+                "- 12 Jump Squats",
+                "- 10 Power Snatch (75 lb)",
+                "- 200m Run"
             ]
         },
         "martes": {
-            "titulo": "Gimnásticos + AMRAP Largo",
+            "titulo": "Upper Pull + Gimnasia Colgante",
             "ejercicios": [
-                "A. Gimnásticos (4 rondas por calidad):",
-                "- 3 Bar Muscle Ups",
-                "- 6 Chest to Bar",
-                "- 10 Toes to Bar",
+                "A. Weighted Ring Pull-ups – 5x5",
                 "B. Accesorios (3 rondas):",
-                "- 10 Ring Rows",
-                "- 12 Curl Biceps",
-                "- 12 Face Pulls",
-                "C. AMRAP 28:",
-                "- 400m Run",
-                "- 20 KB Swings (24 kg)",
-                "- 15 Push-ups",
-                "- 10 HSPU",
-                "- 200m Farmer Carry"
+                "- 12 Chest Supported DB Rows",
+                "- 15 Band Face Pulls",
+                "- 12 EZ Bar Curls",
+                "C. WOD – 'Grip Game' (cap 15’):",
+                "- 4 rondas:",
+                "- 15 Toes to Bar",
+                "- 12 Ring Rows",
+                "- 20 Double Unders"
             ]
         },
         "miercoles": {
-            "titulo": "Snatch Técnica + WOD Rápido",
+            "titulo": "Snatch Balance + WOD Técnico",
             "ejercicios": [
-                "A. Snatch Complejo – 6 sets:",
-                "- 1 Hang Snatch",
-                "- 1 Snatch Balance",
-                "- 1 Squat Snatch",
-                "B. WOD – 'Snatch Dash' (cap 12’):",
-                "- 21-15-9:",
-                "- Power Snatch (75–95 lb)",
-                "- Handstand Walking (10m por ronda)"
+                "A. Snatch Balance – 6x2 @ 70–75%",
+                "B. Técnica (EMOM 8):",
+                "- Min 1: 3 Overhead Squats (ligeros)",
+                "- Min 2: 5 Tall Snatch",
+                "C. WOD – 'Overhead Control' (cap 14’):",
+                "- 3 rondas:",
+                "- 10 Overhead Squats (95 lb)",
+                "- 12 Bar Facing Burpees",
+                "- 300m Run"
             ]
         },
         "jueves": {
-            "titulo": "Deadlift + Chipper Aeróbico",
+            "titulo": "Posterior Unilateral + Chipper Medio",
             "ejercicios": [
-                "A. Deadlift – 5x5 @ 70%",
+                "A. Single Leg Romanian Deadlift – 4x10 por pierna",
                 "B. Accesorios (3 rondas):",
-                "- 10 RDL",
-                "- 12 Lunges pesados",
-                "- 1’ Side Plank por lado",
-                "C. Chipper – 'Flow 30' (cap 30’):",
-                "- 100 Double Unders",
-                "- 800m Run",
-                "- 40 Pull-ups",
-                "- 30 Deadlifts (135 lb)",
-                "- 20 HSPU",
-                "- 10 Bar Muscle Ups"
+                "- 15 Hip Thrusts",
+                "- 12 Nordic Curls o Hamstring Curls",
+                "- 20 Russian Twists",
+                "C. Chipper – 'Hamstring Heat' (cap 22’):",
+                "- 60 KB Swings (24 kg)",
+                "- 50 Sit-ups",
+                "- 40 Box Step-ups",
+                "- 30 Deadlifts (115 lb)",
+                "- 20 Push-ups",
+                "- 10 Wall Walks"
             ]
         },
         "viernes": {
-            "titulo": "Push/Press + Intervalos",
+            "titulo": "Upper Push + Intervalos Metabólicos",
             "ejercicios": [
-                "A. Push Press – 5x4 @ 70–75%",
+                "A. Push Jerk – 5x5 @ 70%",
                 "B. Accesorios (3 rondas):",
-                "- 12 DB Shoulder Press",
-                "- 12 Tríceps Rope",
-                "- 12 Lateral Raises",
-                "C. EMOM 20:",
-                "- Min 1: 12 Cal Bike",
-                "- Min 2: 15 Wall Balls",
-                "- Min 3: 12 Burpees",
-                "- Min 4: Descanso"
+                "- 12 DB Lateral Raises",
+                "- 12 Ring Push-ups",
+                "- 20s Handstand Hold",
+                "C. Intervalos (5 sets):",
+                "- 2’ trabajo / 1’ descanso",
+                "- 10 Push Jerks (95 lb)",
+                "- 12 Cal Bike",
+                "- Max Sit-ups"
             ]
         },
         "sabado": {
-            "titulo": "HERO WOD – Gimnástico / Barra Pesada",
+            "titulo": "WOD Largo Aeróbico-Gimnástico",
             "ejercicios": [
-                "‘Iron Wings’ – For Time (cap 45’):",
-                "- 1000m Run",
-                "- 40 Pull-ups",
-                "- 30 Overhead Squats (95 lb)",
-                "- 20 Ring Muscle Ups",
-                "- 30 Toes to Bar",
-                "- 40 Box Jumps",
-                "- 1000m Run"
+                "‘Engine Builder’ – For Time (cap 45’):",
+                "- 1500m Row",
+                "- 60 Pull-ups",
+                "- 50 Wall Balls",
+                "- 40 Alternating DB Snatch (22.5 kg)",
+                "- 30 Handstand Push-ups",
+                "- 20 Front Squats (135 lb)",
+                "- 800m Run"
             ]
         },
         "domingo": {
-            "titulo": "Descanso Activo",
+            "titulo": "Descanso / Recuperación",
             "ejercicios": [
-                "Caminata ligera 30–40 min",
-                "Foam roller",
-                "Movilidad de hombro y cadera"
+                "Movilidad de hombros y tobillos",
+                "Foam rolling",
+                "Caminata ligera o bici suave"
             ]
         }
     }

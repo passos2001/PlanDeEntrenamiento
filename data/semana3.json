@@ -2,69 +2,97 @@
     "semana": 3,
     "dias": {
         "lunes": {
-            "titulo": "Fuerza de Tracción + Intervalos Cortos",
+            "titulo": "Front Rack Strength + WOD Intervalado",
             "ejercicios": [
-                "Fuerza: Deadlift 5x5 @ 70%",
-                "EMOM 12’:",
-                "Min 1: 12/10 Cal Row",
-                "Min 2: 10 Pull Ups",
-                "Min 3: 8 Toes to Bar"
+                "A. Front Rack Reverse Lunges – 5x6 por pierna",
+                "B. Accesorios (3 rondas):",
+                "- 10 Zercher Squats",
+                "- 15 Hip Abductions con banda",
+                "- 20 Dead Bugs",
+                "C. WOD – Intervalos (5 sets):",
+                "- 2’ trabajo / 1’ descanso",
+                "- 10 Thrusters (85 lb)",
+                "- 12 Box Jump Overs",
+                "- Max Cal Row"
             ]
         },
         "martes": {
-            "titulo": "Gimnasia Invertida + WOD Controlado",
+            "titulo": "Gimnasia Estricta + Core",
             "ejercicios": [
-                "Skill: 6x20m Handstand Walking",
-                "4 Rondas For Time:",
-                "20 Wall Balls",
-                "12 Handstand Push Ups",
-                "10 Box Jumps"
+                "A. Strict Handstand Push-ups – 6x4",
+                "B. Accesorios (3 rondas):",
+                "- 12 Ring Rows tempo",
+                "- 15 DB Floor Press",
+                "- 30s L-Sit",
+                "C. WOD – 'Body Control' (cap 14’):",
+                "- 4 rondas:",
+                "- 6 Wall Walks",
+                "- 10 Push-ups deficit",
+                "- 16 Hollow Rocks"
             ]
         },
         "miercoles": {
-            "titulo": "Snatch Day",
+            "titulo": "Clean Pull + Potencia",
             "ejercicios": [
-                "Snatch 6x2 @ 75–80%",
-                "Snatch Pull 3x3 @ 90%",
-                "Accessory: 3x12 Hip Extensions",
-                "Accessory: 3x10 Snatch Grip Rows"
+                "A. Clean Pull – 5x5 @ 95–100% del Clean",
+                "B. Técnica (EMOM 10):",
+                "- Min 1: 2 Power Cleans @ 70%",
+                "- Min 2: 5 Front Squats ligeros",
+                "C. WOD – 'Short Fuse' (cap 10’):",
+                "- 21-15-9:",
+                "- Power Cleans (115 lb)",
+                "- Bar Facing Burpees"
             ]
         },
         "jueves": {
-            "titulo": "WOD Aeróbico Extenso",
+            "titulo": "Posterior Chain + Carry Work",
             "ejercicios": [
-                "Engine Builder – For Time (cap 35’):",
-                "800m Run",
-                "60 KB Swings",
-                "40 Sit-Ups",
-                "800m Run",
-                "60 Lunges",
-                "40 Push Ups"
+                "A. Barbell Hip Thrust – 5x8 pesado",
+                "B. Accesorios (3 rondas):",
+                "- 12 Good Mornings",
+                "- 20 Walking Lunges",
+                "- 30s Side Plank por lado",
+                "C. WOD – 'Carry Load' (cap 20’):",
+                "- 5 rondas:",
+                "- 200m Farmer Carry (2x24 kg)",
+                "- 15 KB Swings",
+                "- 12 Sit-ups"
             ]
         },
         "viernes": {
-            "titulo": "Clean & Jerk + WOD Pesado",
+            "titulo": "Upper Pull Explosivo + Engine",
             "ejercicios": [
-                "Clean & Jerk 7x1 @ 80–85%",
-                "EMOM 10’: 1 Clean & Jerk (75–80%) + 5 Burpees Over Bar"
+                "A. Chest to Bar Pull-ups – 5x6 (kipping controlado)",
+                "B. Accesorios (3 rondas):",
+                "- 12 Single Arm Lat Pulldown",
+                "- 12 Incline DB Curls",
+                "- 15 Band Pull Aparts",
+                "C. AMRAP 18:",
+                "- 300m Run",
+                "- 10 Pull-ups",
+                "- 15 Wall Balls",
+                "- 10 Alternating Pistols"
             ]
         },
         "sabado": {
-            "titulo": "Hero WOD – White",
+            "titulo": "WOD Largo Mixto (Chipper Progresivo)",
             "ejercicios": [
-                "5 Rondas (cap 40’):",
-                "3 Rope Climbs",
-                "10 Toes to Bar",
-                "400m Run",
-                "10 Power Cleans (135/95 lb)"
+                "‘Climb & Burn’ – For Time (cap 45’):",
+                "- 1000m Run",
+                "- 50 Toes to Bar",
+                "- 40 DB Push Press (22.5 kg)",
+                "- 30 Front Squats (135 lb)",
+                "- 20 Handstand Push-ups",
+                "- 10 Bar Muscle Ups",
+                "- 1000m Run"
             ]
         },
         "domingo": {
             "titulo": "Descanso / Recuperación",
             "ejercicios": [
-                "Movilidad ligera",
-                "Caminata suave",
-                "Foam roller"
+                "Movilidad de hombros, cadera y espalda",
+                "Foam roller",
+                "Respiración diafragmática"
             ]
         }
     }

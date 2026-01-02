@@ -2,100 +2,96 @@
     "semana": 1,
     "dias": {
         "lunes": {
-            "titulo": "Lower Body Strength + WOD Técnico",
+            "titulo": "Lower Body Unilateral + WOD Aeróbico",
             "ejercicios": [
-                "A. Back Squat – 5x5 @ 70%",
+                "A. Tempo Front Squat – 5x4 @ 65% (3s bajada)",
                 "B. Accesorios (3 rondas):",
-                "- 12 Lunges con barra",
-                "- 15 Hip Thrusts",
-                "- 20 Abmat Sit-ups",
-                "C. WOD – 'Wall Flow' (cap 15’):",
-                "- 4 rondas:",
-                "- 10 Front Squats (95 lb)",
-                "- 8 Wall Walks",
-                "- 200m Run"
+                "- 10 Bulgarian Split Squats por pierna",
+                "- 12 Single Leg RDL por pierna",
+                "- 20 V-Ups",
+                "C. WOD – 'Smooth Start' (cap 15’):",
+                "- 5 rondas:",
+                "- 400m Run",
+                "- 15 Wall Balls",
+                "- 10 Alternating DB Snatch (22.5 kg)"
             ]
         },
         "martes": {
-            "titulo": "Gimnásticos Avanzados + AMRAP Largo",
+            "titulo": "Upper Push + Gimnasia Controlada",
             "ejercicios": [
-                "A. Gimnásticos (5 rondas por calidad):",
-                "- 3 Strict HSPU",
-                "- 6 Kipping HSPU",
-                "- 10 Toes to Bar",
+                "A. Strict Press – 5x6 @ 65–70%",
                 "B. Accesorios (3 rondas):",
-                "- 12 DB Row",
-                "- 15 Hollow Rocks",
-                "C. AMRAP 25:",
-                "- 400m Run",
-                "- 20 Push-ups",
-                "- 15 KB Swings (24 kg)",
-                "- 12 Chest to Bar",
-                "- 10 Box Jump Overs"
+                "- 10 Seated DB Press",
+                "- 12 Ring Dips",
+                "- 15 Band Pull Aparts",
+                "C. WOD – 'Inversion Control' (cap 12’):",
+                "- 4 rondas:",
+                "- 6 Wall Walks",
+                "- 12 Hand Release Push-ups",
+                "- 20 Double Unders"
             ]
         },
         "miercoles": {
-            "titulo": "Clean & Jerk Técnica + WOD de Potencia",
+            "titulo": "Clean Técnica + Intervalos",
             "ejercicios": [
-                "A. Complejo – 6 sets:",
-                "- 1 Hang Clean",
-                "- 1 Front Squat",
-                "- 1 Jerk",
-                "B. WOD – 'Power Trip' (cap 14’):",
-                "- 21-15-9:",
-                "- Power Clean (95 lb)",
-                "- Handstand Walking (10m por ronda)"
+                "A. Clean Complex – 6 sets:",
+                "- 1 Hang Clean + 1 Front Squat + 1 Jerk @ 65–70%",
+                "B. WOD – Intervalos (4 sets):",
+                "- 90” trabajo / 90” descanso",
+                "- 12 Power Cleans (95 lb)",
+                "- 10 Toes to Bar",
+                "- Max Cal Row"
             ]
         },
         "jueves": {
-            "titulo": "Deadlift + Chipper Extendido",
+            "titulo": "Posterior Chain + Chipper Corto",
             "ejercicios": [
-                "A. Deadlift – 5x4 @ 72%",
+                "A. Deficit Deadlift – 5x5 @ 65%",
                 "B. Accesorios (3 rondas):",
-                "- 12 RDL",
-                "- 12 Bulgarian Split Squats",
-                "- 1’ Side Plank por lado",
-                "C. Chipper (cap 30’):",
-                "- 100 Double Unders",
-                "- 50 Wall Balls",
-                "- 40 Pull-ups",
-                "- 30 Deadlifts (135 lb)",
-                "- 20 HSPU",
-                "- 800m Run"
+                "- 15 GHD Sit-ups o Abmat Sit-ups",
+                "- 12 Hip Extensions",
+                "- 20 Walking Lunges",
+                "C. Chipper – 'Backside Burn' (cap 18’):",
+                "- 50 KB Swings (24 kg)",
+                "- 40 Sit-ups",
+                "- 30 Box Jump Overs",
+                "- 20 Deadlifts (155 lb)",
+                "- 10 Handstand Push-ups"
             ]
         },
         "viernes": {
-            "titulo": "Upper Body Strength + Intervalos",
+            "titulo": "Gimnasia Pull + Engine",
             "ejercicios": [
-                "A. Bench Press – 5x5 @ 70%",
+                "A. Chest to Bar Pull-ups – 5x8",
                 "B. Accesorios (3 rondas):",
-                "- 12 Incline DB Press",
-                "- 12 Lateral Raises",
-                "- 12 Tríceps Rope",
-                "C. EMOM 18:",
-                "- Min 1: 12 Cal Row",
-                "- Min 2: 10 Thrusters (95 lb)",
-                "- Min 3: 12 Burpees Over Bar"
+                "- 10 Single Arm DB Rows por lado",
+                "- 12 Hammer Curls",
+                "- 30” Arch Hold",
+                "C. AMRAP 20:",
+                "- 250m Ski o Row",
+                "- 12 Pull-ups",
+                "- 16 Air Squats",
+                "- 8 Burpees Over Bar"
             ]
         },
         "sabado": {
-            "titulo": "Hero WOD Largo",
+            "titulo": "WOD Largo Mixto (Skill + Engine)",
             "ejercicios": [
-                "‘Reaper Run’ – For Time (cap 45’):",
+                "‘Fresh Cycle’ – For Time (cap 42’):",
                 "- 1200m Run",
-                "- 50 Box Jumps",
+                "- 40 Handstand Push-ups",
+                "- 30 Clean & Jerks (115 lb)",
                 "- 40 Toes to Bar",
-                "- 30 Clean & Jerks (135 lb)",
-                "- 20 Bar Muscle Ups",
+                "- 50 Wall Balls",
                 "- 1200m Run"
             ]
         },
         "domingo": {
-            "titulo": "Descanso Activo",
+            "titulo": "Descanso / Recuperación",
             "ejercicios": [
-                "30–40 min caminata ligera",
-                "Movilidad de hombros y cadera",
-                "Foam roller"
+                "Movilidad activa",
+                "Trabajo de hombro y cadera",
+                "Respiración y caminata suave"
             ]
         }
     }
