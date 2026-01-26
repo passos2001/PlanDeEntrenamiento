@@ -1,0 +1,101 @@
+{
+    "semana": 8,
+    "dias": {
+        "lunes": {
+            "titulo": "Front Squat Control + WOD Técnico",
+            "ejercicios": [
+                "A. Front Squat – 5x5 @ 70%",
+                "B. Front Rack Complex (4 sets, sin soltar barra):",
+                "- 5 Front Squats",
+                "- 5 Front Rack Lunges",
+                "- 5 Push Press",
+                "C. WOD – 'Rack Control' (cap 14’):",
+                "- 4 rondas:",
+                "- 10 Front Squats (115 lb)",
+                "- 12 Toes to Bar",
+                "- 200m Run"
+            ]
+        },
+        "martes": {
+            "titulo": "Handstand Control + Upper Push",
+            "ejercicios": [
+                "A. Handstand Hold + Walk Combo – 15 min:",
+                "- 20–30s hold + 10–15m walk",
+                "B. Upper Push Flow (4 rondas):",
+                "- 8 Strict HSPU",
+                "- 10 DB Push Press",
+                "- 12 Push-ups",
+                "C. WOD – 'Upside Skill' (cap 12’):",
+                "- AMRAP:",
+                "- 5 Wall Walks",
+                "- 10 Handstand Shoulder Taps",
+                "- 20 Double Unders"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Stability + WOD Overhead",
+            "ejercicios": [
+                "A. Pause Overhead Squat – 5x4 @ 65%",
+                "B. Snatch Stability Complex (5 sets):",
+                "- 1 Snatch Balance",
+                "- 2 Overhead Squats",
+                "- 10s Overhead Hold",
+                "C. WOD – 'Overhead Burn' (cap 14’):",
+                "- 3 rondas:",
+                "- 12 Power Snatch (95 lb)",
+                "- 15 Wall Balls",
+                "- 12 Box Jump Overs"
+            ]
+        },
+        "jueves": {
+            "titulo": "Posterior Chain Flow + Carry",
+            "ejercicios": [
+                "A. Tempo Romanian Deadlift – 4x8 @ 65% (3-1-1)",
+                "B. Posterior Chain Complex (4 rondas):",
+                "- 12 Hip Thrusts",
+                "- 10 Single Leg RDL por pierna",
+                "- 20s Glute Bridge Hold",
+                "C. WOD – 'Carry & Core' (cap 18’):",
+                "- 4 rondas:",
+                "- 200m Farmer Carry (2x24 kg)",
+                "- 20 Sit-ups",
+                "- 12 KB Swings"
+            ]
+        },
+        "viernes": {
+            "titulo": "Upper Pull Control + Engine",
+            "ejercicios": [
+                "A. Strict Pull-ups – 5x8",
+                "B. Pulling Flow (4 rondas):",
+                "- 10 Ring Rows tempo",
+                "- 12 DB Curls",
+                "- 15 Band Face Pulls",
+                "C. WOD – Intervalos (6 sets):",
+                "- 90s trabajo / 60s descanso",
+                "- 10 Pull-ups",
+                "- 12 Cal Bike",
+                "- Max Air Squats"
+            ]
+        },
+        "sabado": {
+            "titulo": "WOD Largo Controlado (Aerobic Capacity)",
+            "ejercicios": [
+                "‘Steady Grind’ – For Time (cap 40’):",
+                "- 1200m Run",
+                "- 50 Wall Balls",
+                "- 40 Alternating DB Snatch (22.5 kg)",
+                "- 30 Toes to Bar",
+                "- 20 Clean & Jerks (115 lb)",
+                "- 1200m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad global",
+                "Foam rolling",
+                "Respiración y caminata suave"
+            ]
+        }
+    }
+}

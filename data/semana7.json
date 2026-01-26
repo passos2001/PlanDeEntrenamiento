@@ -1,0 +1,105 @@
+{
+    "semana": 7,
+    "dias": {
+        "lunes": {
+            "titulo": "Squat Endurance + WOD Denso",
+            "ejercicios": [
+                "A. Back Squat – 4x10 @ 60–65%",
+                "B. Squat Complex (4 sets, sin soltar barra):",
+                "- 6 Back Squats",
+                "- 6 Front Squats",
+                "- 6 Overhead Squats (ligeros)",
+                "C. WOD – 'Leg Volume' (cap 15’):",
+                "- AMRAP:",
+                "- 15 Wall Balls",
+                "- 12 Alternating DB Snatch (22.5 kg)",
+                "- 9 Box Jump Overs",
+                "- 6 Burpees Over Bar"
+            ]
+        },
+        "martes": {
+            "titulo": "Handstand Skill + Upper Push Capacity",
+            "ejercicios": [
+                "A. Handstand Walking – práctica 15–20 min (variar trayectorias)",
+                "B. Upper Push Complex (4 rondas):",
+                "- 8 Strict HSPU",
+                "- 10 Ring Dips",
+                "- 12 Push-ups",
+                "C. WOD – 'Upside Burn' (cap 12’):",
+                "- 4 rondas:",
+                "- 6 Wall Walks",
+                "- 12 Handstand Shoulder Taps",
+                "- 24 Double Unders"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Olympic Flow + WOD Mixto",
+            "ejercicios": [
+                "A. Barbell Flow – 6 sets:",
+                "- 1 Power Clean",
+                "- 1 Hang Squat Clean",
+                "- 1 Push Jerk @ 70%",
+                "B. Olympic Cycling (EMOM 10):",
+                "- Min 1: 6 Power Cleans (95 lb)",
+                "- Min 2: 6 Push Jerks (95 lb)",
+                "C. WOD – 'Flow State' (cap 14’):",
+                "- 3 rondas:",
+                "- 10 Clean & Jerks (115 lb)",
+                "- 15 Toes to Bar",
+                "- 200m Run"
+            ]
+        },
+        "jueves": {
+            "titulo": "Posterior Chain + Carry Capacity",
+            "ejercicios": [
+                "A. Tempo Deadlift – 4x6 @ 65% (3s subida)",
+                "B. Carry Complex (4 rondas):",
+                "- 100m Front Rack Carry (95 lb)",
+                "- 100m Overhead Carry (45 lb)",
+                "- 200m Farmer Carry (2x24 kg)",
+                "C. WOD – 'Loaded Engine' (cap 18’):",
+                "- AMRAP:",
+                "- 12 KB Swings",
+                "- 10 Sit-ups",
+                "- 8 Deadlifts (155 lb)",
+                "- 200m Run"
+            ]
+        },
+        "viernes": {
+            "titulo": "Upper Pull Capacity + Gimnasia",
+            "ejercicios": [
+                "A. Bar Muscle Ups – 6x4",
+                "B. Pulling Flow (4 rondas):",
+                "- 10 Chest to Bar Pull-ups",
+                "- 12 Ring Rows",
+                "- 14 DB Curls",
+                "C. WOD – Intervalos (5 sets):",
+                "- 2’ trabajo / 1’ descanso",
+                "- 8 Bar Muscle Ups",
+                "- 12 Wall Balls",
+                "- Max Cal Row"
+            ]
+        },
+        "sabado": {
+            "titulo": "WOD Largo y Duro (High Volume Day)",
+            "ejercicios": [
+                "‘Work Capacity Test’ – For Time (cap 50’):",
+                "- 1500m Run",
+                "- 60 Toes to Bar",
+                "- 50 Front Squats (135 lb)",
+                "- 40 Handstand Push-ups",
+                "- 30 Clean & Jerks (135 lb)",
+                "- 20 Bar Muscle Ups",
+                "- 1500m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad profunda",
+                "Descarga de hombros y espalda",
+                "Caminata o bici muy suave"
+            ]
+        }
+    }
+}

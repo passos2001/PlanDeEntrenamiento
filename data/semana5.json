@@ -1,0 +1,97 @@
+{
+    "semana": 5,
+    "dias": {
+        "lunes": {
+            "titulo": "Back Squat Ondulante + WOD Power",
+            "ejercicios": [
+                "A. Back Squat – 6 sets:",
+                "- 2 reps @ 75%",
+                "- 2 reps @ 80%",
+                "- 2 reps @ 85%",
+                "- repetir ciclo dos veces",
+                "B. Accesorios (3 rondas):",
+                "- 10 Walking Lunges con barra",
+                "- 12 Hip Thrusts",
+                "- 20 Abmat Sit-ups",
+                "C. WOD – 'Power Legs' (cap 12’):",
+                "- 5 rondas:",
+                "- 8 Back Squats (135 lb)",
+                "- 10 Box Jump Overs",
+                "- 12 Wall Balls"
+            ]
+        },
+        "martes": {
+            "titulo": "Upper Push + Inversiones",
+            "ejercicios": [
+                "A. Push Press – 5x5 @ 75%",
+                "B. Skill: Handstand Walk – 12 min (práctica libre)",
+                "C. Accesorios (3 rondas):",
+                "- 12 DB Bench Press",
+                "- 15 Ring Dips",
+                "- 30s Hollow Hold"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Cycling + WOD Denso",
+            "ejercicios": [
+                "A. Squat Snatch – 6x2 @ 75–80%",
+                "B. Técnica (EMOM 8):",
+                "- Min 1: 2 Hang Snatch",
+                "- Min 2: 6 Overhead Squats (ligeros)",
+                "C. WOD – 'Redline' (cap 10’):",
+                "- 21-15-9:",
+                "- Power Snatch (95 lb)",
+                "- Toes to Bar"
+            ]
+        },
+        "jueves": {
+            "titulo": "Posterior Chain + Chipper Pesado",
+            "ejercicios": [
+                "A. Romanian Deadlift – 5x6 @ 75%",
+                "B. Accesorios (3 rondas):",
+                "- 12 Good Mornings",
+                "- 15 GHD Sit-ups o Abmat",
+                "- 20 Reverse Lunges",
+                "C. Chipper – 'Heavy Pull' (cap 25’):",
+                "- 50 Deadlifts (155 lb)",
+                "- 40 Pull-ups",
+                "- 30 Front Squats (135 lb)",
+                "- 20 Handstand Push-ups"
+            ]
+        },
+        "viernes": {
+            "titulo": "Upper Pull + Engine Intermedio",
+            "ejercicios": [
+                "A. Weighted Pull-ups – 5x4",
+                "B. Accesorios (3 rondas):",
+                "- 12 Pendlay Rows",
+                "- 12 Hammer Curls",
+                "- 15 Band Face Pulls",
+                "C. AMRAP 18:",
+                "- 400m Run",
+                "- 12 Chest to Bar Pull-ups",
+                "- 16 KB Swings (24 kg)"
+            ]
+        },
+        "sabado": {
+            "titulo": "WOD Largo Mixto (Benchmark Style)",
+            "ejercicios": [
+                "‘Grindhouse’ – For Time (cap 45’):",
+                "- 1000m Row",
+                "- 40 Clean & Jerks (115 lb)",
+                "- 60 Wall Balls",
+                "- 40 Toes to Bar",
+                "- 20 Bar Muscle Ups",
+                "- 1000m Row"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad profunda",
+                "Trabajo de glúteo y core",
+                "Caminata o bici suave"
+            ]
+        }
+    }
+}

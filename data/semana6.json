@@ -1,0 +1,106 @@
+{
+    "semana": 6,
+    "dias": {
+        "lunes": {
+            "titulo": "Front Squat + Lower Body Complex",
+            "ejercicios": [
+                "A. Front Squat – 6x3 @ 80%",
+                "B. Lower Body Barbell Complex (5 sets, sin soltar barra):",
+                "- 5 Front Squats",
+                "- 5 Back Squats",
+                "- 5 Good Mornings",
+                "- descansar 2’ entre sets",
+                "C. WOD – 'Leg Density' (cap 14’):",
+                "- 4 rondas:",
+                "- 12 Thrusters (95 lb)",
+                "- 10 Box Jump Overs",
+                "- 200m Run"
+            ]
+        },
+        "martes": {
+            "titulo": "Strict Gymnastics + Inversion Flow",
+            "ejercicios": [
+                "A. Strict Ring Muscle Ups – 6x3 (o progresión)",
+                "B. Gymnastics Flow (4 rondas, controlado):",
+                "- 30s Handstand Hold",
+                "- 10 Shoulder Taps",
+                "- 10 Deficit Push-ups",
+                "- 20s Hollow Hold",
+                "C. WOD – 'Upside Down' (cap 12’):",
+                "- 5 rondas:",
+                "- 4 Wall Walks",
+                "- 8 Handstand Push-ups",
+                "- 16 Double Unders"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean Complex + WOD de Potencia",
+            "ejercicios": [
+                "A. Clean Complex – 6 sets:",
+                "- 1 Hang Clean",
+                "- 1 Clean",
+                "- 1 Front Squat",
+                "- 1 Jerk @ 70–75%",
+                "B. Power Complex (EMOM 10):",
+                "- Min 1: 3 Power Cleans (95 lb)",
+                "- Min 2: 6 Push Jerks (95 lb)",
+                "C. WOD – 'Metal Flow' (cap 10’):",
+                "- 21-15-9:",
+                "- Clean & Jerks (115 lb)",
+                "- Bar Facing Burpees"
+            ]
+        },
+        "jueves": {
+            "titulo": "Posterior Chain + Carry Complex",
+            "ejercicios": [
+                "A. Deficit Deadlift – 5x5 @ 70%",
+                "B. Carry & Core Complex (4 rondas):",
+                "- 200m Farmer Carry (2x24 kg)",
+                "- 20 Sit-ups",
+                "- 40m Front Rack Carry (95 lb)",
+                "C. WOD – 'Heavy Steps' (cap 18’):",
+                "- AMRAP:",
+                "- 12 Deadlifts (155 lb)",
+                "- 10 Toes to Bar",
+                "- 200m Run"
+            ]
+        },
+        "viernes": {
+            "titulo": "Upper Pull + Bar Complex",
+            "ejercicios": [
+                "A. Weighted Chest to Bar Pull-ups – 5x4",
+                "B. Barbell Pulling Complex (4 sets):",
+                "- 6 Pendlay Rows",
+                "- 6 High Pulls",
+                "- 6 Romanian Deadlifts",
+                "- descanso 90s",
+                "C. WOD – Intervalos (5 sets):",
+                "- 90s trabajo / 60s descanso",
+                "- 10 Pull-ups",
+                "- 12 Wall Balls",
+                "- Max Cal Bike"
+            ]
+        },
+        "sabado": {
+            "titulo": "WOD Largo Complex & Skill",
+            "ejercicios": [
+                "‘Chain Reaction’ – For Time (cap 45’):",
+                "- 1200m Run",
+                "- 5 rondas:",
+                "- 10 Clean Pulls (135 lb)",
+                "- 10 Front Squats (135 lb)",
+                "- 10 Push Jerks (135 lb)",
+                "- 40 Toes to Bar",
+                "- 1200m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad profunda",
+                "Trabajo de core y cadera",
+                "Respiración y descarga general"
+            ]
+        }
+    }
+}
