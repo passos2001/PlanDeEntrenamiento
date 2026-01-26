@@ -4,7 +4,7 @@
         "lunes": {
             "titulo": "Back Squat Ondulante + WOD Power",
             "ejercicios": [
-                "A. Back Squat – 6 sets:",
+                "A. Back Squat",
                 "- 2 reps @ 75%",
                 "- 2 reps @ 80%",
                 "- 2 reps @ 85%",
@@ -94,4 +94,5 @@
             ]
         }
     }
+
 }
