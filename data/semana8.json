@@ -10,9 +10,10 @@
                 "- 5 Front Rack Lunges",
                 "- 5 Push Press",
                 "C. WOD – 'Rack Control' (cap 14’):",
-                "- 4 rondas:",
-                "- 10 Front Squats (115 lb)",
-                "- 12 Toes to Bar",
+                "- 3 rondas:",
+                "- 9 T2B",
+                "- 12 Front Squats (115 lb)",
+                "- 15 KB Swing",
                 "- 200m Run"
             ]
         },
@@ -50,7 +51,7 @@
         "jueves": {
             "titulo": "Posterior Chain Flow + Carry",
             "ejercicios": [
-                "A. Tempo Romanian Deadlift – 4x8 @ 65% (3-1-1)",
+                "A. 1 RM Hang Clean",
                 "B. Posterior Chain Complex (4 rondas):",
                 "- 12 Hip Thrusts",
                 "- 10 Single Leg RDL por pierna",
@@ -59,7 +60,7 @@
                 "- 4 rondas:",
                 "- 200m Farmer Carry (2x24 kg)",
                 "- 20 Sit-ups",
-                "- 12 KB Swings"
+                "- 10m Hand Stand Walking"
             ]
         },
         "viernes": {
@@ -98,4 +99,5 @@
             ]
         }
     }
+
 }
