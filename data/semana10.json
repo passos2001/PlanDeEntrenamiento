@@ -1,0 +1,100 @@
+{
+    "semana": 10,
+    "dias": {
+        "lunes": {
+            "titulo": "Front Squat Pesado + Ladder Invertida",
+            "ejercicios": [
+                "A. Front Squat – 5x3 @ 82–85%",
+                "B. Front Rack Complex (4 sets):",
+                "- 2 Front Squats",
+                "- 2 Front Rack Lunges por pierna",
+                "- 2 Push Press",
+                "C. WOD – 'Pressure Ladder' (cap 14’):",
+                "- 12-10-8-6-4-2:",
+                "- Front Squats (115 lb)",
+                "- Handstand Push-ups"
+            ]
+        },
+        "martes": {
+            "titulo": "Handstand Walking + Gimnasia Técnica",
+            "ejercicios": [
+                "A. Handstand Walking – 15 min práctica técnica (giros, obstáculos)",
+                "B. Gymnastics Complex (4 rondas):",
+                "- 8 Strict Pull-ups",
+                "- 10 Toes to Bar",
+                "- 20s Hollow Rock",
+                "C. WOD – 'Body Control' (cap 15’):",
+                "- 5 rondas:",
+                "- 5 Wall Walks",
+                "- 10 Push-ups deficit",
+                "- 15 Air Squats",
+                "- 200m Run"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Pesado + WOD Overhead",
+            "ejercicios": [
+                "A. Squat Snatch – 6x2 @ 80–85%",
+                "B. Snatch Complex (5 sets):",
+                "- 1 Hang Snatch",
+                "- 1 Snatch Balance",
+                "- 1 Overhead Squat",
+                "C. WOD – 'Overhead Under Fatigue':",
+                "- 3 rondas:",
+                "- 20 Power Snatch (95 lb)",
+                "- 30 Box Jump Overs",
+                "- 50 Double Unders"
+            ]
+        },
+        "jueves": {
+            "titulo": "Posterior Chain Dinámico + Intervalos",
+            "ejercicios": [
+                "A. Deficit Romanian Deadlift – 4x6 @ 70%",
+                "B. Posterior Complex (4 rondas):",
+                "- 12 Hip Thrusts",
+                "- 10 Single Leg Deadlift por pierna",
+                "- 30s Plank Hold",
+                "C. Intervalos (5 sets):",
+                "- 3’ trabajo / 1’ descanso",
+                "- 12 KB Swings (24 kg)",
+                "- 10 Toes to Bar",
+                "- 200m Run"
+            ]
+        },
+        "viernes": {
+            "titulo": "Upper Pull Explosivo + Couplet Intenso",
+            "ejercicios": [
+                "A. Weighted Pull-ups – 5x5",
+                "B. Pulling Complex (4 sets):",
+                "- 6 Chest to Bar Pull-ups",
+                "- 8 Ring Rows tempo",
+                "- 10 DB Hammer Curls",
+                "C. WOD – 'Grip & Burn' (cap 10’):",
+                "- 21-15-9:",
+                "- Pull-ups",
+                "- Thrusters (95 lb)"
+            ]
+        },
+        "sabado": {
+            "titulo": "WOD Largo Segmentado",
+            "ejercicios": [
+                "‘Segmented Grind’ – For Time (cap 45’):",
+                "- 800m Run",
+                "- 3 rondas:",
+                "- 15 Clean & Jerks (115 lb)",
+                "- 20 Wall Balls",
+                "- 15 Toes to Bar",
+                "- 800m Run",
+                "- 30 Handstand Push-ups"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad de hombros y cadera",
+                "Foam rolling",
+                "Caminata ligera o bici suave"
+            ]
+        }
+    }
+}

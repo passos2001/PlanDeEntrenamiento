@@ -1,0 +1,98 @@
+{
+    "semana": 9,
+    "dias": {
+        "lunes": {
+            "titulo": "Test Hang Clean",
+            "ejercicios": [
+                "A. RM Hang Clean",
+                "B. Squat Complex (4 sets, sin soltar barra):",
+                "- 3 Back Squats",
+                "- 3 Pause Back Squats (2s abajo)",
+                "C. WOD – 'Descending Fire' (cap 12’):",
+                "- 15-12-9-6-3:",
+                "- Thrusters (95 lb)",
+                "- Pull Ups"
+            ]
+        },
+        "martes": {
+            "titulo": "Gimnasia Avanzada + Core Dinámico",
+            "ejercicios": [
+                "A. Bar Muscle Ups – 5x5",
+                "B. Gymnastics Complex (4 rondas):",
+                "- 10 Chest to Bar Pull-ups",
+                "- 8 Toes to Bar",
+                "- 20s L-Sit Hold",
+                "C. WOD – 'Grip Under Fatigue' (cap 14’):",
+                "- 4 rondas:",
+                "- 6 Wall Walks",
+                "- 12 Pull-ups",
+                "- 24 Double Unders"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean & Jerk Pesado + WOD Corto Explosivo",
+            "ejercicios": [
+                "A. Clean & Jerk – 6x2 @ 80–85%",
+                "B. Clean Complex (5 sets):",
+                "- 1 Hang Clean",
+                "- 1 Squat Clean",
+                "- 1 Jerk",
+                "C. WOD – 'Quick Strike' (cap 9’):",
+                "- DT",
+                "- 15 Deadlifts.",
+                "- 12 Hang Clean.",
+                "- 9 Shoulder To Over Head."
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift Fuerte + Carry Volume",
+            "ejercicios": [
+                "A. Deadlift – 5x4 @ 80%",
+                "B. Carry Complex (4 rondas):",
+                "- 200m Farmer Carry (2x24 kg)",
+                "- 100m Front Rack Carry (115 lb)",
+                "- 20 Sit-ups",
+                "C. WOD – 'Loaded Grind' (cap 18’):",
+                "- AMRAP:",
+                "- 12 Deadlifts (155 lb)",
+                "- 15 Wall Balls",
+                "- 10 Toes to Bar"
+            ]
+        },
+        "viernes": {
+            "titulo": "Upper Push Pesado + Intervalos",
+            "ejercicios": [
+                "A. Strict Press – 5x5 @ 75–80%",
+                "B. Press Complex (4 sets):",
+                "- 5 Strict Press",
+                "- 5 Push Press",
+                "- 5 Push Jerks",
+                "C. Intervalos (6 sets):",
+                "- 2’ trabajo / 1’ descanso",
+                "- 8 Handstand Push-ups",
+                "- 12 Cal Row",
+                "- Max Air Squats"
+            ]
+        },
+        "sabado": {
+            "titulo": "WOD Largo Competitivo",
+            "ejercicios": [
+                "‘Iron Engine’ – For Time (cap 45’):",
+                "- 1000m Run",
+                "- 50 Front Squats (135 lb)",
+                "- 40 Toes to Bar",
+                "- 30 Clean & Jerks (135 lb)",
+                "- 20 Bar Muscle Ups",
+                "- 1000m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad profunda de cadera y hombros",
+                "Foam rolling",
+                "Caminata ligera"
+            ]
+        }
+    }
+}

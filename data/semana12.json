@@ -1,0 +1,90 @@
+{
+    "semana": 12,
+    "dias": {
+        "lunes": {
+            "titulo": "Test Back Squat + Benchmark Corto",
+            "ejercicios": [
+                "A. Buscar 1RM Back Squat",
+                "B. Back-off: 2x5 @ 75%",
+                "C. WOD – 'Baseline Burn' (cap 10’):",
+                "- 21-15-9-15-21:",
+                "- Dumbell Snatch",
+                "- KB Swing",
+                "- Air Squats"
+            ]
+        },
+        "martes": {
+            "titulo": "Test Strict Press + Gimnasia Control",
+            "ejercicios": [
+                "A. Buscar 3RM Strict Press",
+                "B. Gimnasia Técnica (4 rondas controladas):",
+                "- 6 Strict HSPU",
+                "- 10 Toes to Bar",
+                "- 20s L-Sit",
+                "C. Finisher (cap 20’):",
+                "- AMRAP:",
+                "- 8 Handstand Shoulder Taps",
+                "- 12 Push-ups",
+                "- 40 Double Unders"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Test Snatch + Sprint WOD",
+            "ejercicios": [
+                "A. Buscar 1RM Squat Snatch",
+                "B. Snatch Back-off: 3x2 @ 80%",
+                "C. WOD – 'GRACE':",
+                "- 30 Clean & Jerk",
+                "D. WOD – 'Run':",
+                "- 1k Run"
+            ]
+        },
+        "jueves": {
+            "titulo": "Test Deadlift + Engine Medio",
+            "ejercicios": [
+                "A. Buscar 1RM Deadlift",
+                "B. Back-off: 2x4 @ 80%",
+                "C. WOD – 'Posterior Engine' (cap 15’):",
+                "- 3 rondas:",
+                "- 15 Deadlifts (155 lb)",
+                "- 20 Wall Balls",
+                "- 400m Run"
+            ]
+        },
+        "viernes": {
+            "titulo": "Test Clean & Jerk + Skill",
+            "ejercicios": [
+                "A. Buscar 1RM Clean & Jerk",
+                "B. Clean Complex ligero (3 sets):",
+                "- 1 Hang Clean",
+                "- 1 Front Squat",
+                "- 1 Jerk @ 70%",
+                "C. WOD – 'Quick Skill' (cap 8’):",
+                "- 5 rondas:",
+                "- 4 Bar Muscle Ups",
+                "- 8 Handstand Push-ups"
+            ]
+        },
+        "sabado": {
+            "titulo": "Benchmark Largo – Hero Style",
+            "ejercicios": [
+                "‘Full Capacity Test’ – For Time (cap 50’):",
+                "- 1600m Run",
+                "- 50 Front Squats (135 lb)",
+                "- 40 Toes to Bar",
+                "- 30 Clean & Jerks (135 lb)",
+                "- 20 Bar Muscle Ups",
+                "- 50 Wall Balls",
+                "- 1600m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso Total",
+            "ejercicios": [
+                "Movilidad suave",
+                "Foam rolling",
+                "Hidratación y recuperación activa"
+            ]
+        }
+    }
+}

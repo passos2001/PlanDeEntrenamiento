@@ -1,0 +1,102 @@
+{
+    "semana": 11,
+    "dias": {
+        "lunes": {
+            "titulo": "Back Squat Heavy + Triplet Intenso",
+            "ejercicios": [
+                "A. Back Squat – 5x2 @ 87–90%",
+                "B. Squat Complex (4 sets):",
+                "- 2 Back Squats",
+                "- 2 Pause Back Squats (3s)",
+                "- 2 Jump Squats (ligeros)",
+                "C. WOD – 'Heavy Legs' (cap 12’):",
+                "- 5 rondas:",
+                "- 6 Back Squats (155 lb)",
+                "- 8 Deficit Push Ups",
+                "- 10 Wall Balls"
+            ]
+        },
+        "martes": {
+            "titulo": "Bar Muscle Up Capacity + Skill",
+            "ejercicios": [
+                "A. Bar Muscle Ups – 6x5",
+                "B. Gimnasia Complex (4 rondas):",
+                "- 10 Chest to Bar Pull-ups",
+                "- 12 Toes to Bar",
+                "- 20s L-Sit",
+                "C. WOD – 'Grip Attack' (cap 14’):",
+                "- AMRAP:",
+                "- 4 Wall Walks",
+                "- 8 Pull-ups",
+                "- 12 Push-ups",
+                "- 16 Double Unders"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean & Jerk Pesado + Sprint WOD",
+            "ejercicios": [
+                "A. Clean & Jerk – 7x1 @ 85–88%",
+                "B. Clean Complex (4 sets):",
+                "- 1 Hang Squat Clean",
+                "- 1 Front Squat",
+                "- 1 Jerk",
+                "C. WOD – 'Short Shock' (cap 8’):",
+                "- 30-20-10:",
+                "- Power Cleans (115 lb)",
+                "- Box Jump Overs"
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift Potencia + Engine Medio",
+            "ejercicios": [
+                "A. Deadlift – 5x3 @ 85%",
+                "B. Posterior Complex (4 rondas):",
+                "- 10 Romanian Deadlifts",
+                "- 12 Reverse Lunges",
+                "- 30s Plank Hold",
+                "C. WOD – 'Posterior Burn' (cap 18’):",
+                "- 4 rondas:",
+                "- 12 Deadlifts (155 lb)",
+                "- 15 Sit-ups",
+                "- 200m Run",
+                "- 12 KB Swings (24 kg)"
+            ]
+        },
+        "viernes": {
+            "titulo": "Strict Press + Handstand Density",
+            "ejercicios": [
+                "A. Strict Press – 5x3 @ 80–85%",
+                "B. Press Complex (4 sets):",
+                "- 3 Strict Press",
+                "- 3 Push Press",
+                "- 3 Push Jerks",
+                "C. WOD – Intervalos (5 sets):",
+                "- 2’ trabajo / 1’ descanso",
+                "- 6 Handstand Push-ups",
+                "- 12 Cal Row",
+                "- Max Air Squats"
+            ]
+        },
+        "sabado": {
+            "titulo": "WOD Largo Competitivo (High Skill)",
+            "ejercicios": [
+                "‘Elite Builder’ – For Time (cap 45’):",
+                "- 1200m Run",
+                "- 40 Front Squats (135 lb)",
+                "- 30 Toes to Bar",
+                "- 20 Clean & Jerks (135 lb)",
+                "- 20 Bar Muscle Ups",
+                "- 40 Wall Balls",
+                "- 1200m Run"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso / Recuperación",
+            "ejercicios": [
+                "Movilidad profunda",
+                "Descarga de espalda y hombros",
+                "Caminata ligera"
+            ]
+        }
+    }
+}
