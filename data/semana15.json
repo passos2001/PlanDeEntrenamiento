@@ -2,99 +2,98 @@
     "semana": 15,
     "dias": {
         "lunes": {
-            "titulo": "Back Squat + WOD Corto Pesado",
+            "titulo": "Back Squat Heavy + WOD Intenso",
             "ejercicios": [
-                "A. Back Squat – 6x3 @ 80%",
-                "B. Accesorios (3 rondas):",
-                "- 12 Step-ups con barra",
-                "- 12 Hip Thrusts",
-                "- 20 Sit-ups",
-                "C. WOD – 'Heavy Legs' (cap 10’):",
-                "- 21-15-9",
-                "- Front Squats (115 lb)",
-                "- Burpees Over Bar"
+                "A. Back Squat – 5x3 @ 82–85%",
+                "B. Squat Complex (4 sets):",
+                "- 3 Back Squats",
+                "- 3 Pause Squats (2s)",
+                "- 3 Jump Squats (ligeros)",
+                "C. WOD – 'Leg Destroyer' (cap 12’):",
+                "- 4 rondas:",
+                "- 10 Back Squats (155 lb)",
+                "- 12 Box Jump Overs",
+                "- 14 Wall Balls"
             ]
         },
         "martes": {
-            "titulo": "Pull + AMRAP Largo",
+            "titulo": "Gimnasia Alta + Handstand",
             "ejercicios": [
-                "A. Weighted Pull-ups – 5x5",
-                "B. Accesorios (3 rondas):",
-                "- 12 Barbell Rows",
-                "- 12 Hammer Curls",
-                "- 15 Reverse Hypers o Superman Holds",
-                "C. AMRAP 25:",
-                "- 400m Run",
-                "- 15 Toes to Bar",
-                "- 20 KB Swings (24 kg)",
-                "- 15 Push-ups",
-                "- 10 Box Jump Overs"
+                "A. Handstand Walking – 20 min (distancia + obstáculos)",
+                "B. Gymnastics Complex (4 rondas):",
+                "- 10 Chest to Bar Pull-ups",
+                "- 12 Toes to Bar",
+                "- 15 Push-ups deficit",
+                "C. WOD – 'Skill Under Fatigue' (cap 14’):",
+                "- AMRAP:",
+                "- 6 Wall Walks",
+                "- 10 Handstand Push-ups",
+                "- 20 Double Unders"
             ]
         },
         "miercoles": {
-            "titulo": "Snatch + EMOM Gimnástico",
+            "titulo": "Snatch Pesado + Sprint WOD",
             "ejercicios": [
-                "A. Técnica – 6 sets (2 Hang Snatch + 1 Squat Snatch) @ 75%",
-                "B. Accesorios (3 rondas):",
-                "- 12 DB Shoulder Press",
-                "- 12 Lateral Raises",
-                "- 1’ Hollow Hold",
-                "C. EMOM 18:",
-                "- Min 1: 12 Chest to Bar Pull-ups",
-                "- Min 2: 10 Power Snatch (95 lb)",
-                "- Min 3: 12 Cal Row"
+                "A. Squat Snatch – 6x2 @ 80–85%",
+                "B. Snatch Complex (4 sets):",
+                "- 1 Hang Snatch",
+                "- 1 Snatch Balance",
+                "- 1 Overhead Squat",
+                "C. WOD – 'Fast Overhead' (cap 9’):",
+                "- 21-15-9:",
+                "- Power Snatch (95 lb)",
+                "- Bar Facing Burpees"
             ]
         },
         "jueves": {
-            "titulo": "Deadlift + Chipper Extendido",
+            "titulo": "Deadlift Heavy + Engine",
             "ejercicios": [
-                "A. Deadlift – 5x5 @ 75%",
-                "B. Accesorios (3 rondas):",
+                "A. Deadlift – 5x3 @ 85%",
+                "B. Posterior Complex (4 rondas):",
                 "- 10 Romanian Deadlifts",
-                "- 10 Step-back Lunges",
-                "- 1’ Side Plank por lado",
-                "C. Chipper – 'The Grinder' (cap 30’):",
-                "- 100 Double Unders",
-                "- 80 Wall Balls",
-                "- 60 Sit-ups",
-                "- 40 Deadlifts (135 lb)",
-                "- 20 Bar Facing Burpees"
+                "- 12 Walking Lunges",
+                "- 30s Plank Hold",
+                "C. WOD – 'Heavy Engine' (cap 18’):",
+                "- 4 rondas:",
+                "- 12 Deadlifts (155 lb)",
+                "- 15 KB Swings (24 kg)",
+                "- 200m Run"
             ]
         },
         "viernes": {
-            "titulo": "Clean & Jerk + Intervalos Mixtos",
+            "titulo": "Push Press + Intervalos Duros",
             "ejercicios": [
-                "A. Clean & Jerk – 6 sets (2 Cleans + 1 Jerk) @ 75%",
-                "B. Accesorios (3 rondas):",
-                "- 12 Incline DB Press",
-                "- 12 Tríceps Pushdowns",
-                "- 15 Russian Twists",
-                "C. EMOM 20:",
-                "- Min 1: 12 Cal Bike",
-                "- Min 2: 10 Thrusters (95 lb)",
-                "- Min 3: 12 Burpees",
-                "- Min 4: Descanso"
+                "A. Push Press – 5x3 @ 80–85%",
+                "B. Press Complex (4 sets):",
+                "- 3 Strict Press",
+                "- 3 Push Press",
+                "- 3 Push Jerks",
+                "C. Intervalos (6 sets):",
+                "- 2’ trabajo / 1’ descanso",
+                "- 8 Handstand Push-ups",
+                "- 12 Cal Row",
+                "- Max Air Squats"
             ]
         },
         "sabado": {
-            "titulo": "Hero WOD Largo (Resistencia y Volumen)",
+            "titulo": "WOD Largo Máximo (Peak Week)",
             "ejercicios": [
-                "‘The Titan’ – For Time (cap 45’):",
-                "- 1000m Run",
-                "- 50 Pull-ups",
-                "- 40 Push Press (95 lb)",
-                "- 30 Deadlifts (135 lb)",
-                "- 20 Overhead Squats (95 lb)",
-                "- 10 Bar Muscle-ups",
-                "- 1000m Run final"
+                "‘Peak Challenge’ – For Time (cap 50’):",
+                "- 1600m Run",
+                "- 60 Wall Balls",
+                "- 50 Toes to Bar",
+                "- 40 Front Squats (135 lb)",
+                "- 30 Clean & Jerks (135 lb)",
+                "- 20 Bar Muscle Ups",
+                "- 1600m Run"
             ]
         },
         "domingo": {
-            "titulo": "Descanso / Movilidad",
+            "titulo": "Descanso / Recuperación",
             "ejercicios": [
-                "Movilidad activa de cadera, hombros y espalda baja",
-                "Rodillo miofascial",
-                "Caminata o bicicleta suave (20–30 min)"
+                "Movilidad profunda",
+                "Foam rolling",
+                "Recuperación completa"
             ]
         }
     }

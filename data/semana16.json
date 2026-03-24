@@ -2,91 +2,97 @@
     "semana": 16,
     "dias": {
         "lunes": {
-            "titulo": "Back Squat (Deload) + WOD Técnico",
+            "titulo": "Back Squat Técnica + WOD Ligero",
             "ejercicios": [
-                "A. Back Squat – 4x3 @ 60%",
-                "B. Accesorios (2 rondas):",
-                "- 10 Lunges",
-                "- 15 Hip Bridges",
-                "- 20 Sit-ups",
-                "C. WOD – 'Smooth Start' (cap 10’):",
-                "- 3 rondas:",
-                "- 10 Front Squats (95 lb)",
-                "- 10 Box Jumps",
-                "- 10 Burpees suaves"
+                "A. Back Squat – 4x5 @ 60–65%",
+                "B. Squat Control (3 sets):",
+                "- 5 Tempo Squats (3-2-1)",
+                "- 5 Goblet Squats",
+                "- 20s Bottom Hold",
+                "C. WOD – 'Light Legs' (cap 12’):",
+                "- AMRAP:",
+                "- 12 Air Squats",
+                "- 10 Sit-ups",
+                "- 200m Run"
             ]
         },
         "martes": {
-            "titulo": "Técnica de Snatch + Core y Movilidad",
+            "titulo": "Gimnasia Técnica + Inversiones",
             "ejercicios": [
-                "A. Técnica Snatch – 6 sets ligeros (50–60%) enfocando posición final",
-                "B. Accesorios Core (3 rondas):",
-                "- 15 V-ups",
-                "- 20 Russian Twists",
-                "- 1’ Hollow Hold",
-                "C. Cardio controlado:",
-                "- 15’ Row o Bike a ritmo medio"
+                "A. Handstand Hold + Walk – 15 min (control total)",
+                "B. Gymnastics Flow (3 rondas):",
+                "- 6 Strict Pull-ups",
+                "- 8 Knee Raises",
+                "- 10 Push-ups",
+                "C. WOD – 'Skill Flow' (cap 10’):",
+                "- 3 rondas:",
+                "- 4 Wall Walks",
+                "- 8 Handstand Shoulder Taps",
+                "- 20 Double Unders"
             ]
         },
         "miercoles": {
-            "titulo": "Clean & Jerk Ligero + WOD Corto",
+            "titulo": "Snatch Técnica + WOD Controlado",
             "ejercicios": [
-                "A. Clean & Jerk – 5 sets (2+1) @ 60%",
-                "B. Accesorios (2 rondas):",
-                "- 10 DB Shoulder Press",
-                "- 10 Lateral Raises",
-                "- 15 Superman Holds",
-                "C. WOD – 'Light Engine' (cap 12’):",
-                "- 21-15-9:",
-                "- Power Cleans (95 lb)",
-                "- Push-ups",
+                "A. Snatch – 5x3 @ 65–70%",
+                "B. Snatch Complex (3 sets):",
+                "- 1 Hang Snatch",
+                "- 1 Overhead Squat",
+                "- 5s Overhead Hold",
+                "C. WOD – 'Smooth Bar' (cap 10’):",
+                "- 3 rondas:",
+                "- 10 Power Snatch (75 lb)",
+                "- 12 Box Step Overs",
                 "- 200m Run"
             ]
         },
         "jueves": {
-            "titulo": "Deadlift (Deload) + WOD Largo Suave",
+            "titulo": "Posterior Chain + Core",
             "ejercicios": [
-                "A. Deadlift – 4x5 @ 60%",
-                "B. Accesorios (2 rondas):",
-                "- 10 Romanian Deadlifts",
-                "- 15 Step-ups sin peso",
-                "- 20 Sit-ups",
-                "C. AMRAP 25:",
-                "- 400m Run",
-                "- 15 Pull-ups",
-                "- 20 Air Squats",
-                "- 10 Cal Row"
+                "A. Romanian Deadlift – 4x6 @ 60–65%",
+                "B. Posterior Flow (3 rondas):",
+                "- 12 Hip Thrusts",
+                "- 10 Reverse Lunges",
+                "- 30s Plank",
+                "C. WOD – 'Easy Engine' (cap 15’):",
+                "- AMRAP:",
+                "- 10 KB Swings (ligero)",
+                "- 12 Sit-ups",
+                "- 200m Run"
             ]
         },
         "viernes": {
-            "titulo": "Retesteo Parcial + WOD Corto",
+            "titulo": "Upper Body Técnica + Intervalos Suaves",
             "ejercicios": [
-                "A. Test 3RM Front Squat o Bench Press (elige uno)",
-                "B. WOD – 'Mini Test' (cap 8’):",
-                "- 5 rondas:",
-                "- 5 Power Cleans (115 lb)",
-                "- 10 Toes to Bar",
-                "- 15 Air Squats"
+                "A. Strict Press – 4x5 @ 60–65%",
+                "B. Upper Flow (3 sets):",
+                "- 10 DB Press",
+                "- 12 Ring Rows",
+                "- 15 Band Pull Apart",
+                "C. Intervalos (4 sets):",
+                "- 90s trabajo / 90s descanso",
+                "- 8 Push Press (ligero)",
+                "- 10 Pull-ups",
+                "- Air Squats controlados"
             ]
         },
         "sabado": {
-            "titulo": "Hero Suave + Cierre del Bloque",
+            "titulo": "WOD Largo Aeróbico (Recovery)",
             "ejercicios": [
-                "‘Mini Murph’ – For Time (cap 25’):",
-                "- 800m Run",
-                "- 50 Pull-ups",
-                "- 100 Push-ups",
-                "- 150 Air Squats",
-                "- 800m Run",
-                "Adaptar el volumen si es necesario, mantener técnica y respiración controlada"
+                "‘Recovery Flow’ – For Time (cap 35’):",
+                "- 1000m Run",
+                "- 40 Wall Balls (ligero)",
+                "- 30 Sit-ups",
+                "- 20 KB Swings (ligero)",
+                "- 1000m Run"
             ]
         },
         "domingo": {
-            "titulo": "Descanso / Recuperación Total",
+            "titulo": "Descanso Total",
             "ejercicios": [
-                "Movilidad guiada (hombros, cadera, espalda baja)",
-                "Foam roller o masaje",
-                "Caminata ligera, hidratación y sueño de calidad"
+                "Movilidad suave",
+                "Foam rolling",
+                "Recuperación completa"
             ]
         }
     }

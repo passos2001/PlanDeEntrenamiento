@@ -2,106 +2,102 @@
     "semana": 14,
     "dias": {
         "lunes": {
-            "titulo": "Front Squat + WOD Corto de Potencia",
+            "titulo": "Front Squat Intensidad + WOD Denso",
             "ejercicios": [
-                "A. Front Squat – 5x5 @ 75%",
-                "B. Accesorios (3 rondas):",
-                "- 10 Bulgarian Split Squats por pierna",
-                "- 12 Glute Bridges",
-                "- 15 Sit-ups",
-                "C. WOD – 'Quick Legs' (cap 9’):",
-                "- 3 rondas:",
+                "A. Front Squat – 5x4 @ 75–80%",
+                "B. Front Rack Complex (4 sets, sin soltar barra):",
+                "- 4 Front Squats",
+                "- 4 Front Rack Lunges por pierna",
+                "- 4 Push Press",
+                "C. WOD – 'Front Pressure' (cap 14’):",
+                "- AMRAP:",
                 "- 10 Front Squats (115 lb)",
-                "- 10 Burpees Over Bar",
-                "- 100m Run"
+                "- 12 Box Jump Overs",
+                "- 14 Wall Balls"
             ]
         },
         "martes": {
-            "titulo": "Pull + Conditioning Largo",
+            "titulo": "Gimnasia Avanzada + Core",
             "ejercicios": [
-                "A. Strength – Deadlift 4x6 @ 75%",
-                "B. Accesorios (3 rondas):",
-                "- 12 DB Rows",
-                "- 12 Barbell Curls",
-                "- 20 Hollow Rocks",
-                "C. AMRAP 25:",
-                "- 400m Run",
-                "- 15 Pull-ups",
-                "- 15 KB Swings (24 kg)",
-                "- 20 Box Step-ups"
+                "A. Handstand Walking – 15–18 min (distancia + control)",
+                "B. Gymnastics Complex (4 rondas):",
+                "- 8 Chest to Bar Pull-ups",
+                "- 10 Toes to Bar",
+                "- 12 Push-ups deficit",
+                "C. WOD – 'Core Grinder' (cap 15’):",
+                "- 4 rondas:",
+                "- 6 Wall Walks",
+                "- 12 Sit-ups",
+                "- 24 Double Unders",
+                "- 200m Run"
             ]
         },
         "miercoles": {
-            "titulo": "Snatch Complejo + WOD Gimnástico",
+            "titulo": "Clean Complex + WOD Mixto",
             "ejercicios": [
-                "A. Técnica – Snatch Complex (5 sets):",
-                "- 1 Snatch Pull",
-                "- 1 Hang Snatch",
-                "- 1 Overhead Squat",
-                "- 1 Snatch Balance @ 70%",
-                "B. Accesorios (3 rondas):",
-                "- 12 DB Shoulder Press",
-                "- 12 Face Pulls",
-                "- 15 Toes to Bar estrictos",
-                "C. WOD – 'Float' (cap 12’):",
-                "- 4 rondas:",
-                "- 10 Chest to Bar Pull-ups",
-                "- 10 Box Jump Overs",
-                "- 10 Push Jerks (115 lb)"
+                "A. Clean Complex – 5 sets @ 75%:",
+                "- 1 Power Clean",
+                "- 1 Hang Squat Clean",
+                "- 1 Front Squat",
+                "- 1 Jerk",
+                "B. Barbell Cycling (EMOM 10):",
+                "- Min 1: 6 Power Cleans (95 lb)",
+                "- Min 2: 6 Push Jerks (95 lb)",
+                "C. WOD – 'Barbell Flow' (cap 12’):",
+                "- 21-15-9:",
+                "- Clean & Jerks (115 lb)",
+                "- Toes to Bar"
             ]
         },
         "jueves": {
-            "titulo": "Fuerza Mixta + Chipper Infernal",
+            "titulo": "Deadlift + Carry & Core",
             "ejercicios": [
-                "A. Back Squat – 4x8 @ 70%",
-                "B. Bench Press – 4x8 @ 70%",
-                "C. Chipper – 'Engine Builder' (cap 25’):",
-                "- 800m Run",
-                "- 50 Wall Balls",
-                "- 40 Sit-ups",
-                "- 30 Deadlifts (135 lb)",
-                "- 20 Pull-ups",
-                "- 10 Clean & Jerks (135 lb)"
+                "A. Deadlift – 5x5 @ 75%",
+                "B. Carry Complex (4 rondas):",
+                "- 200m Farmer Carry (2x24 kg)",
+                "- 100m Front Rack Carry (115 lb)",
+                "- 20 Russian Twists",
+                "C. WOD – 'Loaded Core' (cap 18’):",
+                "- AMRAP:",
+                "- 12 Deadlifts (155 lb)",
+                "- 10 Hanging Knee Raises",
+                "- 200m Run"
             ]
         },
         "viernes": {
-            "titulo": "Clean & Jerk + EMOM de Alta Intensidad",
+            "titulo": "Upper Push + Pull Balance",
             "ejercicios": [
-                "A. Técnica – Clean & Jerk Complex (5 sets):",
-                "- 1 Clean Pull",
-                "- 1 Power Clean",
-                "- 1 Jerk @ 70–75%",
-                "B. Accesorios (3 rondas):",
-                "- 12 Push-ups con tempo",
-                "- 12 Upright Rows",
-                "- 1’ Plancha frontal",
-                "C. EMOM 20:",
-                "- Min 1: 10 Thrusters (95 lb)",
-                "- Min 2: 12 Cal Row",
-                "- Min 3: 10 Burpees",
-                "- Min 4: Descanso"
+                "A. Push Press – 5x4 @ 75–80%",
+                "B. Upper Complex (4 sets):",
+                "- 8 DB Incline Press",
+                "- 10 Ring Rows",
+                "- 12 Lateral Raises",
+                "C. WOD – Intervalos (6 sets):",
+                "- 90s trabajo / 60s descanso",
+                "- 10 Push Press (95 lb)",
+                "- 12 Pull-ups",
+                "- Max Air Squats"
             ]
         },
         "sabado": {
-            "titulo": "Hero WOD Largo de Resistencia y Gimnásticos",
+            "titulo": "WOD Largo Mixto (Competitivo)",
             "ejercicios": [
-                "‘Hero Endurance’ – For Time (cap 40’):",
-                "- 100 Double Unders",
-                "- 800m Run",
-                "- 50 Pull-ups",
-                "- 40 Push-ups",
-                "- 30 Power Cleans (95 lb)",
-                "- 20 Front Squats (95 lb)",
-                "- 10 Bar Muscle-ups",
-                "- 400m Run final"
+                "‘Mid Block Test’ – For Time (cap 45’):",
+                "- 1000m Run",
+                "- 50 Wall Balls",
+                "- 40 Toes to Bar",
+                "- 30 Front Squats (135 lb)",
+                "- 20 Handstand Push-ups",
+                "- 10 Bar Muscle Ups",
+                "- 1000m Run"
             ]
         },
         "domingo": {
-            "titulo": "Descanso / Movilidad Activa",
+            "titulo": "Descanso / Recuperación",
             "ejercicios": [
-                "Estiramientos dinámicos",
-                "Rodillo miofascial (foam roller)",
-                "Caminata ligera o natación suave"
+                "Movilidad de hombros y cadera",
+                "Foam rolling",
+                "Caminata ligera"
             ]
         }
     }
