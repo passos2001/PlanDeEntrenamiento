@@ -2,100 +2,92 @@
     "semana": 17,
     "dias": {
         "lunes": {
-            "titulo": "Pierna Pesada + WOD Metabólico",
+            "titulo": "Clean Complex + Lower Strength Variado",
             "ejercicios": [
-                "A. Back Squat – 6x3 @ 80%",
-                "B. Accesorios (3 rondas):",
-                "- 12 Lunges con barra",
-                "- 15 Hip Thrusts",
-                "- 20 Abmat Sit-ups",
-                "C. WOD – 'Quad Engine' (cap 14’):",
-                "- 4 rondas:",
-                "- 15 Thrusters (95 lb)",
-                "- 12 Box Jump Overs",
-                "- 200m Run"
+                "A. Clean Complex – 5 sets @ 70%:",
+                "- 1 Hang Clean",
+                "- 1 Squat Clean",
+                "- 1 Front Squat",
+                "B. Bulgarian Split Squat – 4x8 por pierna",
+                "C. WOD – 3 rondas de:",
+                "- 400m Run",
+                "- 21 Step Up Over the Box (10Lb)",
+                "- 15 Alterning Dumbell Hang Clean & Jerk",
+                "- 9 Pull Ups"
             ]
         },
         "martes": {
-            "titulo": "Gimnásticos + Conditioning Largo",
+            "titulo": "Gimnasia Mixta + Skill",
             "ejercicios": [
-                "A. Skill: Handstand Walking – 6 intentos de 20–30s",
-                "B. Gym Strength (3 rondas):",
-                "- 8 Strict Pull-ups",
-                "- 10 Ring Dips",
-                "- 12 Hollow Rocks",
-                "C. AMRAP 25:",
-                "- 500m Row",
-                "- 20 Toes to Bar",
-                "- 20 KB Swings (24 kg)",
-                "- 15 Push-ups",
-                "- 200m Farmer Carry (2x24 kg)"
+                "A. Ring Muscle Ups – 5x4",
+                "B. Handstand Walk – 12 min práctica",
+                "C. WOD – Ladder (cap 14’):",
+                "- 2-4-6-8-10...",
+                "- Pull-ups",
+                "- Handstand Push-ups",
+                "- Sit-ups"
             ]
         },
         "miercoles": {
-            "titulo": "Snatch + WOD Técnico Rápido",
+            "titulo": "Snatch Técnica + Overhead Control",
             "ejercicios": [
-                "A. Técnica: 7 sets (1 Hang Snatch + 1 Squat Snatch) @ 70%",
-                "B. Accesorios (3 rondas):",
-                "- 12 OHS con PVC o barra vacía",
-                "- 15 Face Pulls",
-                "C. WOD – 'Grip & Speed' (cap 10’):",
-                "- 21-15-9:",
-                "- Power Snatch (75 lb)",
-                "- Chest to Bar Pull-ups"
+                "A. Snatch Complex – 5 sets @ 70%:",
+                "- 1 Power Snatch",
+                "- 1 Hang Snatch",
+                "- 1 Overhead Squat",
+                "B. Pause Overhead Squat – 4x4 (3s abajo)",
+                "C. Snatch High Pull – 4x5",
+                "D. WOD 15 - 12 - 9 - 6 -9 - 12 - 15 – AMRAP 20:",
+                "- Power Snatch (95 lb)",
+                "- Wall Balls",
+                "- Cal Bike"
             ]
         },
         "jueves": {
-            "titulo": "Condición Pesada + Deadlift",
+            "titulo": "Posterior Chain + Carries",
             "ejercicios": [
-                "A. Deadlift – 5x4 @ 75%",
-                "B. Accesorios (3 rondas):",
-                "- 10 Romanian Deadlifts",
-                "- 12 Step-ups pesados",
-                "- 1’ Side Plank por lado",
-                "C. Chipper (cap 28’):",
-                "- 100 Double Unders",
-                "- 40 Box Jumps",
-                "- 30 Deadlifts (135 lb)",
-                "- 20 HSPU",
-                "- 10 Bar Muscle Ups",
-                "- 800m Run"
+                "A. Deadlift – 4x6 @ 70%",
+                "B. Single Leg RDL – 3x10 por pierna",
+                "C. WOD – For Time 3 rondas de:",
+                "- 30 Butterfly ABS",
+                "- 20 Box Jump Overs deficit",
+                "- 100m Farmer Carry",
+                "- 30 Push Ups",
+                "- 100m Farmer Carry"
             ]
         },
         "viernes": {
-            "titulo": "Push + Intervalos Mixtos",
+            "titulo": "Upper Push/Pull + Intervalos",
             "ejercicios": [
-                "A. Bench Press – 5x5 @ 70%",
-                "B. Accesorios (3 rondas):",
-                "- 12 DB Bench Press",
-                "- 12 Tríceps Rope",
-                "- 12 Arnold Press",
-                "C. EMOM 20:",
-                "- Min 1: 12 Cal Bike",
-                "- Min 2: 10 Thrusters (95 lb)",
-                "- Min 3: 15 Burpees Over Bar",
-                "- Min 4: Descanso"
+                "A. Bench Press – 5x5 @ 72%",
+                "B. Weighted Pull-ups – 4x6",
+                "C. DB Incline Press – 3x12",
+                "D. Intervalos (5 sets):",
+                "- 3’ trabajo / 2’ descanso",
+                "- 10 Push Press",
+                "- 12 Pull-ups",
+                "- Max Bike Cals"
             ]
         },
         "sabado": {
-            "titulo": "Hero WOD (Largo, Pesado y Completo)",
+            "titulo": "WOD Largo Variado (Base + Skill)",
             "ejercicios": [
-                "‘SANDMAN’ – For Time (cap 40’):",
-                "- 1600m Run",
-                "- 50 Pull-ups",
-                "- 40 KB Swings (24 kg)",
-                "- 30 Clean & Jerks (135 lb)",
-                "- 20 HSPU",
-                "- 10 Muscle Ups",
-                "- 1600m Run"
+                "A. Skill: Handstand Walk – 10 min",
+                "B. WOD – 'Mixed Capacity' (cap 45’):",
+                "- 1000m Run",
+                "- 40 DB Snatch (alternado)",
+                "- 30 Toes to Bar",
+                "- 20 Front Squats (135 lb)",
+                "- 15 Bar Muscle Ups",
+                "- 1000m Row"
             ]
         },
         "domingo": {
-            "titulo": "Descanso Activo / Movilidad",
+            "titulo": "Descanso / Recuperación",
             "ejercicios": [
-                "Caminata 30–40 min",
-                "Movilidad enfocada en hombros y cadera",
-                "Foam Roller"
+                "Movilidad",
+                "Foam rolling",
+                "Recuperación activa"
             ]
         }
     }
