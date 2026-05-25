@@ -1,70 +1,93 @@
 {
     "semana": 23,
+    "tipo": "Competition Recovery / Reload",
     "dias": {
         "lunes": {
-            "titulo": "Fuerza de Tracción + Intervalos Cortos",
+            "titulo": "Flush + Mobility Reset",
             "ejercicios": [
-                "Fuerza: Deadlift 5x5 @ 70%",
-                "EMOM 12’:",
-                "Min 1: 12/10 Cal Row",
-                "Min 2: 10 Pull Ups",
-                "Min 3: 8 Toes to Bar"
+                "A. 10–15 min Bike o Row suave",
+                "B. Mobility Flow (cadera, hombros, tobillos) – 15 min",
+                "C. Goblet Squat – 3x10 ligero",
+                "D. WOD – Easy Flow (cap 12’):",
+                "- AMRAP suave:",
+                "- 10 Air Squats",
+                "- 10 Sit-ups",
+                "- 150m Run"
             ]
         },
         "martes": {
-            "titulo": "Gimnasia Invertida + WOD Controlado",
+            "titulo": "Gymnastics Control + Core",
             "ejercicios": [
-                "Skill: 6x20m Handstand Walking",
-                "4 Rondas For Time:",
-                "20 Wall Balls",
-                "12 Handstand Push Ups",
-                "10 Box Jumps"
+                "A. Strict Pull-ups – 4x5",
+                "B. Handstand Hold – 4x20–30s",
+                "C. Hollow Hold – 4x25s",
+                "D. WOD – For Quality (4 rondas):",
+                "- 6 Ring Rows",
+                "- 8 Knee Raises",
+                "- 10 Push-ups",
+                "- 20 Double Unders"
             ]
         },
         "miercoles": {
-            "titulo": "Snatch Day",
+            "titulo": "Barbell Technique Day",
             "ejercicios": [
-                "Snatch 6x2 @ 75–80%",
-                "Snatch Pull 3x3 @ 90%",
-                "Accessory: 3x12 Hip Extensions",
-                "Accessory: 3x10 Snatch Grip Rows"
+                "A. Snatch Complex – 4 sets @ 60–65%:",
+                "- 1 Power Snatch",
+                "- 1 Hang Snatch",
+                "- 1 Overhead Squat",
+                "B. Clean Complex – 4 sets @ 60–65%:",
+                "- 1 Hang Clean",
+                "- 1 Front Squat",
+                "- 1 Jerk",
+                "C. WOD – EMOM 10:",
+                "- Min 1: 6 Power Snatch (ligero)",
+                "- Min 2: 8 Front Squats (barra ligera)"
             ]
         },
         "jueves": {
-            "titulo": "WOD Aeróbico Extenso",
+            "titulo": "Posterior Chain + Stability",
             "ejercicios": [
-                "Engine Builder – For Time (cap 35’):",
-                "800m Run",
-                "60 KB Swings",
-                "40 Sit-Ups",
-                "800m Run",
-                "60 Lunges",
-                "40 Push Ups"
+                "A. Single Leg RDL – 3x10 por pierna",
+                "B. Hip Thrust – 3x12",
+                "C. Farmer Carry – 3x100m moderado",
+                "D. WOD – Easy Engine (cap 14’):",
+                "- 10 KB Swings (ligero)",
+                "- 10 Sit-ups",
+                "- 200m Run",
+                "- 8 Box Step Overs"
             ]
         },
         "viernes": {
-            "titulo": "Clean & Jerk + WOD Pesado",
+            "titulo": "Upper Body Reload",
             "ejercicios": [
-                "Clean & Jerk 7x1 @ 80–85%",
-                "EMOM 10’: 1 Clean & Jerk (75–80%) + 5 Burpees Over Bar"
+                "A. Bench Press – 4x6 @ 60%",
+                "B. Ring Rows – 3x12",
+                "C. DB Shoulder Press – 3x10",
+                "D. WOD – Intervals (4 sets):",
+                "- 60s trabajo / 60s descanso",
+                "- 8 Push Press (ligero)",
+                "- 10 Pull-ups",
+                "- Bike suave"
             ]
         },
         "sabado": {
-            "titulo": "Hero WOD – White",
+            "titulo": "Long Easy Engine",
             "ejercicios": [
-                "5 Rondas (cap 40’):",
-                "3 Rope Climbs",
-                "10 Toes to Bar",
-                "400m Run",
-                "10 Power Cleans (135/95 lb)"
+                "A. Skill opcional: Handstand Walk técnica – 8–10 min",
+                "B. WOD – 'Recovery Builder' (cap 30’):",
+                "- 800m Run",
+                "- 20 Wall Balls (ligero)",
+                "- 20 Toes to Knee",
+                "- 20 DB Snatch (ligero)",
+                "- 800m Row"
             ]
         },
         "domingo": {
-            "titulo": "Descanso / Recuperación",
+            "titulo": "Descanso Total",
             "ejercicios": [
-                "Movilidad ligera",
-                "Caminata suave",
-                "Foam roller"
+                "Movilidad",
+                "Foam rolling",
+                "Sueño / recuperación"
             ]
         }
     }

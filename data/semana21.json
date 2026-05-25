@@ -1,101 +1,98 @@
 {
     "semana": 21,
+    "tipo": "Pre Competition Build",
     "dias": {
         "lunes": {
-            "titulo": "Lower Body Strength + WOD Técnico",
+            "titulo": "Clean Cycling + Lower Power",
             "ejercicios": [
-                "A. Back Squat – 5x5 @ 70%",
-                "B. Accesorios (3 rondas):",
-                "- 12 Lunges con barra",
-                "- 15 Hip Thrusts",
-                "- 20 Abmat Sit-ups",
-                "C. WOD – 'Wall Flow' (cap 15’):",
-                "- 4 rondas:",
-                "- 10 Front Squats (95 lb)",
-                "- 8 Wall Walks",
-                "- 200m Run"
+                "A. Clean Complex – 5 sets @ 75–80%:",
+                "- 1 Hang Clean",
+                "- 1 Squat Clean",
+                "- 1 Front Squat",
+                "- 1 Push Jerk",
+                "B. Front Rack Step Ups – 4x8 por pierna",
+                "C. Box Jump Rebounds – 4x10",
+                "D. WOD – EMOM 15:",
+                "- Min 1: 10/8 Cal Row",
+                "- Min 2: 8 Power Cleans (115 lb)",
+                "- Min 3: 10 Box Jump Overs"
             ]
         },
         "martes": {
-            "titulo": "Gimnásticos Avanzados + AMRAP Largo",
+            "titulo": "Gymnastics Flow + Grip Fatigue",
             "ejercicios": [
-                "A. Gimnásticos (5 rondas por calidad):",
-                "- 3 Strict HSPU",
-                "- 6 Kipping HSPU",
-                "- 10 Toes to Bar",
-                "B. Accesorios (3 rondas):",
-                "- 12 DB Row",
-                "- 15 Hollow Rocks",
-                "C. AMRAP 25:",
-                "- 400m Run",
-                "- 20 Push-ups",
-                "- 15 KB Swings (24 kg)",
-                "- 12 Chest to Bar",
-                "- 10 Box Jump Overs"
+                "A. Bar Muscle Ups – 5x4",
+                "B. Handstand Walk – 12–15 min (transiciones, giros, control)",
+                "C. Strict Toes to Bar – 4x8",
+                "D. WOD – Ladder (cap 14’):",
+                "- 2-4-6-8-10...",
+                "- Chest to Bar Pull-ups",
+                "- Handstand Push-ups",
+                "- Sit-ups"
             ]
         },
         "miercoles": {
-            "titulo": "Clean & Jerk Técnica + WOD de Potencia",
+            "titulo": "Snatch Speed + Overhead Capacity",
             "ejercicios": [
-                "A. Complejo – 6 sets:",
-                "- 1 Hang Clean",
-                "- 1 Front Squat",
-                "- 1 Jerk",
-                "B. WOD – 'Power Trip' (cap 14’):",
-                "- 21-15-9:",
-                "- Power Clean (95 lb)",
-                "- Handstand Walking (10m por ronda)"
+                "A. Snatch Complex – 5 sets @ 75%:",
+                "- 1 Power Snatch",
+                "- 1 Hang Snatch",
+                "- 1 Overhead Squat",
+                "B. Snatch Pull – 4x4 @ 90%",
+                "C. Overhead Hold Walk – 4x20m",
+                "D. WOD – AMRAP 14:",
+                "- 8 Power Snatch (95 lb)",
+                "- 10 Wall Balls",
+                "- 12/10 Cal Bike",
+                "- 8 Burpees Over Bar"
             ]
         },
         "jueves": {
-            "titulo": "Deadlift + Chipper Extendido",
+            "titulo": "Engine + Carry Strength",
             "ejercicios": [
-                "A. Deadlift – 5x4 @ 72%",
-                "B. Accesorios (3 rondas):",
-                "- 12 RDL",
-                "- 12 Bulgarian Split Squats",
-                "- 1’ Side Plank por lado",
-                "C. Chipper (cap 30’):",
-                "- 100 Double Unders",
-                "- 50 Wall Balls",
-                "- 40 Pull-ups",
-                "- 30 Deadlifts (135 lb)",
-                "- 20 HSPU",
-                "- 800m Run"
+                "A. Farmer Carry – 5x150m pesado",
+                "B. Deadlift – 4x4 @ 75%",
+                "C. Reverse Lunges – 3x12 por pierna",
+                "D. WOD – For Time (cap 18’):",
+                "- 30 KB Swings (24 kg)",
+                "- 20 Box Step Overs cargando DB",
+                "- 400m Run",
+                "- 20 Toes to Bar",
+                "- 400m Run"
             ]
         },
         "viernes": {
-            "titulo": "Upper Body Strength + Intervalos",
+            "titulo": "Upper Power + Competition Intervals",
             "ejercicios": [
-                "A. Bench Press – 5x5 @ 70%",
-                "B. Accesorios (3 rondas):",
-                "- 12 Incline DB Press",
-                "- 12 Lateral Raises",
-                "- 12 Tríceps Rope",
-                "C. EMOM 18:",
-                "- Min 1: 12 Cal Row",
-                "- Min 2: 10 Thrusters (95 lb)",
-                "- Min 3: 12 Burpees Over Bar"
+                "A. Push Press – 5x3 @ 80%",
+                "B. Weighted Pull-ups – 4x5",
+                "C. Ring Dips – 3x12",
+                "D. Intervalos (6 sets):",
+                "- 90s trabajo / 90s descanso",
+                "- 8 Thrusters (95 lb)",
+                "- 10 Pull-ups",
+                "- Max Bike Cals"
             ]
         },
         "sabado": {
-            "titulo": "Hero WOD Largo",
+            "titulo": "Competition Simulation Day",
             "ejercicios": [
-                "‘Reaper Run’ – For Time (cap 45’):",
-                "- 1200m Run",
-                "- 50 Box Jumps",
-                "- 40 Toes to Bar",
-                "- 30 Clean & Jerks (135 lb)",
-                "- 20 Bar Muscle Ups",
-                "- 1200m Run"
+                "A. Skill: Handstand Walk – 10 min",
+                "B. WOD – 'Comp Builder' (cap 40’):",
+                "- 800m Run",
+                "- 30 Front Squats (135 lb)",
+                "- 25 Toes to Bar",
+                "- 20 Clean & Jerks (135 lb)",
+                "- 15 Bar Muscle Ups",
+                "- 800m Row"
             ]
         },
         "domingo": {
-            "titulo": "Descanso Activo",
+            "titulo": "Descanso / Recuperación",
             "ejercicios": [
-                "30–40 min caminata ligera",
-                "Movilidad de hombros y cadera",
-                "Foam roller"
+                "Movilidad profunda",
+                "Foam rolling",
+                "Hidratación"
             ]
         }
     }

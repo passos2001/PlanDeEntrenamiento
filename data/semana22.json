@@ -1,105 +1,94 @@
 {
-    "semana": 22,
-    "dias": {
-        "lunes": {
-            "titulo": "Piernas Pesadas + WOD de Transiciones",
-            "ejercicios": [
-                "A. Front Squat – 6x3 @ 75%",
-                "B. Accesorios (3 rondas):",
-                "- 12 Step-ups con barra",
-                "- 12 Good Mornings",
-                "- 20 V-ups",
-                "C. WOD – 'Leg Switch' (cap 15’):",
-                "- 5 rondas:",
-                "- 12 Thrusters (95 lb)",
-                "- 10 Box Jump Overs",
-                "- 8 Burpees Over Bar"
-            ]
-        },
-        "martes": {
-            "titulo": "Gimnásticos + AMRAP Largo",
-            "ejercicios": [
-                "A. Gimnásticos (4 rondas por calidad):",
-                "- 3 Bar Muscle Ups",
-                "- 6 Chest to Bar",
-                "- 10 Toes to Bar",
-                "B. Accesorios (3 rondas):",
-                "- 10 Ring Rows",
-                "- 12 Curl Biceps",
-                "- 12 Face Pulls",
-                "C. AMRAP 28:",
-                "- 400m Run",
-                "- 20 KB Swings (24 kg)",
-                "- 15 Push-ups",
-                "- 10 HSPU",
-                "- 200m Farmer Carry"
-            ]
-        },
-        "miercoles": {
-            "titulo": "Snatch Técnica + WOD Rápido",
-            "ejercicios": [
-                "A. Snatch Complejo – 6 sets:",
-                "- 1 Hang Snatch",
-                "- 1 Snatch Balance",
-                "- 1 Squat Snatch",
-                "B. WOD – 'Snatch Dash' (cap 12’):",
-                "- 21-15-9:",
-                "- Power Snatch (75–95 lb)",
-                "- Handstand Walking (10m por ronda)"
-            ]
-        },
-        "jueves": {
-            "titulo": "Deadlift + Chipper Aeróbico",
-            "ejercicios": [
-                "A. Deadlift – 5x5 @ 70%",
-                "B. Accesorios (3 rondas):",
-                "- 10 RDL",
-                "- 12 Lunges pesados",
-                "- 1’ Side Plank por lado",
-                "C. Chipper – 'Flow 30' (cap 30’):",
-                "- 100 Double Unders",
-                "- 800m Run",
-                "- 40 Pull-ups",
-                "- 30 Deadlifts (135 lb)",
-                "- 20 HSPU",
-                "- 10 Bar Muscle Ups"
-            ]
-        },
-        "viernes": {
-            "titulo": "Push/Press + Intervalos",
-            "ejercicios": [
-                "A. Push Press – 5x4 @ 70–75%",
-                "B. Accesorios (3 rondas):",
-                "- 12 DB Shoulder Press",
-                "- 12 Tríceps Rope",
-                "- 12 Lateral Raises",
-                "C. EMOM 20:",
-                "- Min 1: 12 Cal Bike",
-                "- Min 2: 15 Wall Balls",
-                "- Min 3: 12 Burpees",
-                "- Min 4: Descanso"
-            ]
-        },
-        "sabado": {
-            "titulo": "HERO WOD – Gimnástico / Barra Pesada",
-            "ejercicios": [
-                "‘Iron Wings’ – For Time (cap 45’):",
-                "- 1000m Run",
-                "- 40 Pull-ups",
-                "- 30 Overhead Squats (95 lb)",
-                "- 20 Ring Muscle Ups",
-                "- 30 Toes to Bar",
-                "- 40 Box Jumps",
-                "- 1000m Run"
-            ]
-        },
-        "domingo": {
-            "titulo": "Descanso Activo",
-            "ejercicios": [
-                "Caminata ligera 30–40 min",
-                "Foam roller",
-                "Movilidad de hombro y cadera"
-            ]
-        }
+  "semana": 22,
+  "tipo": "Competition Taper",
+  "dias": {
+    "lunes": {
+      "titulo": "Power Activation + Light Barbell",
+      "ejercicios": [
+        "A. Clean Complex – 4 sets @ 70%:",
+        "- 1 Hang Clean",
+        "- 1 Squat Clean",
+        "- 1 Push Jerk",
+        "B. Box Jump – 4x6 (explosivos)",
+        "C. WOD – EMOM 10:",
+        "- Min 1: 8 Power Cleans (95 lb)",
+        "- Min 2: 10/8 Cal Row"
+      ]
+    },
+    "martes": {
+      "titulo": "Gymnastics Sharpness + Flow",
+      "ejercicios": [
+        "A. Handstand Walk – 10 min práctica",
+        "B. Bar Muscle Ups – 4x3 (limpios)",
+        "C. Strict Toes to Bar – 3x6",
+        "D. WOD – For Quality (3 rondas):",
+        "- 6 Chest to Bar Pull-ups",
+        "- 8 Handstand Push-ups",
+        "- 10 Sit-ups",
+        "- 30 Double Unders"
+      ]
+    },
+    "miercoles": {
+      "titulo": "Snatch Speed + Short Burner",
+      "ejercicios": [
+        "A. Snatch Complex – 4 sets @ 65–70%:",
+        "- 1 Power Snatch",
+        "- 1 Hang Snatch",
+        "- 1 Overhead Squat",
+        "B. Snatch Pull – 3x3 @ 80%",
+        "C. WOD – AMRAP 8:",
+        "- 6 Power Snatch (75 lb)",
+        "- 8 Wall Balls",
+        "- 6 Burpees Over Bar"
+      ]
+    },
+    "jueves": {
+      "titulo": "Flush Day / Recovery Engine",
+      "ejercicios": [
+        "A. Farmer Carry – 3x100m moderado",
+        "B. Reverse Lunges – 3x10 por pierna",
+        "C. WOD – Easy Flush (cap 12’):",
+        "- 8 Cal Bike",
+        "- 10 KB Swings (ligero)",
+        "- 12 Sit-ups",
+        "- 150m Run"
+      ]
+    },
+    "viernes": {
+      "titulo": "Neural Primer",
+      "ejercicios": [
+        "A. Push Press – 3x3 @ 70%",
+        "B. Pull-ups – 3x6",
+        "C. Box Jumps – 3x5",
+        "D. Mini WOD – 6 min:",
+        "- 5 Thrusters (75 lb)",
+        "- 5 Pull-ups",
+        "- 5 Burpees"
+      ]
+    },
+    "sabado": {
+      "titulo": "Competition Activation",
+      "ejercicios": [
+        "10–15 min movilidad",
+        "5 min bike/row suave",
+        "2 rounds:",
+        "- 5 Air Squats",
+        "- 5 Push-ups",
+        "- 5 Pull-ups",
+        "- 5 Empty Bar Cleans",
+        "Estirar y salir del gym"
+      ]
+    },
+    "domingo": {
+      "titulo": "COMPETENCIA 🔥",
+      "ejercicios": [
+        "Warm-up progresivo",
+        "No salir demasiado rápido en el primer WOD",
+        "Respiración controlada",
+        "Rompe sets inteligente",
+        "Hidrátate entre eventos",
+        "Disfrútalo y compite duro 💪"
+      ]
     }
+  }
 }
