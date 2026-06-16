@@ -1,0 +1,97 @@
+{
+  "semana": 25,
+  "tipo": "Strength & Power Rebuild",
+  "dias": {
+    "lunes": {
+      "titulo": "Clean Power + Lower Body",
+      "ejercicios": [
+        "A. Clean Complex – 5 sets @ 75–80%:",
+        "- 1 High Hang Clean",
+        "- 1 Hang Clean",
+        "- 1 Squat Clean",
+        "B. Front Rack Walking Lunges – 4x20 pasos",
+        "C. Box Jumps – 5x5",
+        "D. WOD – 'Barbell Sprint' (cap 12’):",
+        "- 5 rondas:",
+        "- 6 Power Cleans (135 lb)",
+        "- 8 Burpees Over Bar",
+        "- 10 Air Squats"
+      ]
+    },
+    "martes": {
+      "titulo": "Gymnastics Capacity",
+      "ejercicios": [
+        "A. Bar Muscle Ups – 6x3",
+        "B. Handstand Walk Practice – 12 min",
+        "C. Strict Handstand Push-ups – 5x5",
+        "D. WOD – AMRAP 15:",
+        "- 6 Chest to Bar Pull-ups",
+        "- 8 Toes to Bar",
+        "- 10 Push-ups",
+        "- 12/10 Cal Bike"
+      ]
+    },
+    "miercoles": {
+      "titulo": "Snatch Development",
+      "ejercicios": [
+        "A. Snatch Complex – 6 sets @ 75–80%:",
+        "- 1 Power Snatch",
+        "- 1 Hang Snatch",
+        "- 1 Squat Snatch",
+        "B. Snatch Pull – 4x4 @ 95%",
+        "C. Overhead Carry – 4x25m",
+        "D. WOD – EMOM 15:",
+        "- Min 1: 8 Power Snatch (95 lb)",
+        "- Min 2: 10 Wall Balls",
+        "- Min 3: 12/10 Cal Row"
+      ]
+    },
+    "jueves": {
+      "titulo": "Posterior Chain + Carries",
+      "ejercicios": [
+        "A. Deadlift – 5x4 @ 78–80%",
+        "B. Romanian Deadlift – 3x10",
+        "C. Farmer Carry – 4x200m pesado",
+        "D. WOD – 'Grip Builder' (cap 18’):",
+        "- 3 rondas:",
+        "- 400m Run",
+        "- 20 KB Swings (24 kg)",
+        "- 15 Hanging Knee Raises"
+      ]
+    },
+    "viernes": {
+      "titulo": "Upper Strength + Mixed Conditioning",
+      "ejercicios": [
+        "A. Bench Press – 5x5 @ 75%",
+        "B. Weighted Pull-ups – 4x6",
+        "C. DB Shoulder Press – 3x12",
+        "D. WOD – Intervalos (5 sets):",
+        "- 2’ trabajo / 1’ descanso",
+        "- 10 Thrusters (95 lb)",
+        "- 10 Pull-ups",
+        "- Max Bike Cals"
+      ]
+    },
+    "sabado": {
+      "titulo": "Long Mixed Day",
+      "ejercicios": [
+        "A. Skill: Handstand Walk – 10 min",
+        "B. WOD – 'The Builder' (cap 45’):",
+        "- 1000m Run",
+        "- 40 Wall Balls",
+        "- 30 Toes to Bar",
+        "- 20 Clean & Jerks (135 lb)",
+        "- 15 Bar Muscle Ups",
+        "- 1000m Row"
+      ]
+    },
+    "domingo": {
+      "titulo": "Descanso",
+      "ejercicios": [
+        "Movilidad",
+        "Foam Rolling",
+        "Recuperación activa"
+      ]
+    }
+  }
+}

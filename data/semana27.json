@@ -1,0 +1,96 @@
+{
+    "semana": 27,
+    "tipo": "Intensity Build",
+    "dias": {
+        "lunes": {
+            "titulo": "Clean Strength + Barbell Cycling",
+            "ejercicios": [
+                "A. Clean Complex – 6 sets @ 80–85%:",
+                "- 1 High Hang Clean",
+                "- 1 Hang Squat Clean",
+                "- 1 Front Squat",
+                "- 1 Split Jerk",
+                "B. Front Rack Carry – 4x40m pesado",
+                "C. Clean Pull – 4x3 @ 100% del RM de Clean",
+                "D. WOD – 'Heavy Engine' (cap 14’):",
+                "- 4 rondas:",
+                "- 8 Power Cleans (155 lb)",
+                "- 12 Box Jump Overs",
+                "- 14/12 Cal Row"
+            ]
+        },
+        "martes": {
+            "titulo": "Advanced Gymnastics",
+            "ejercicios": [
+                "A. Handstand Walk Obstacles – 15 min",
+                "B. Bar Muscle Ups – 6x4",
+                "C. Deficit Handstand Push-ups – 5x5",
+                "D. WOD – AMRAP 16:",
+                "- 4 Bar Muscle Ups",
+                "- 8 Handstand Push-ups",
+                "- 12 Toes to Bar",
+                "- 16 Double DB Lunges"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Heavy Day",
+            "ejercicios": [
+                "A. Squat Snatch – 7x1 @ 82–88%",
+                "B. Snatch Balance – 5x2",
+                "C. Overhead Squat – 4x3 pesado",
+                "D. WOD – EMOM 15:",
+                "- Min 1: 6 Squat Snatch (95 lb)",
+                "- Min 2: 10 Wall Facing Burpees",
+                "- Min 3: 12/10 Cal Bike"
+            ]
+        },
+        "jueves": {
+            "titulo": "Posterior Chain + Grip Destruction",
+            "ejercicios": [
+                "A. Deficit Deadlift – 5x3 @ 80%",
+                "B. Romanian Deadlift Tempo (3s bajada) – 4x8",
+                "C. Farmer Carry – 5x200m pesado",
+                "D. WOD – For Time (cap 18’):",
+                "- 50 KB Swings (32 kg)",
+                "- 40 Pull-ups",
+                "- 30 Box Step Overs cargando DB",
+                "- 20 Toes to Bar"
+            ]
+        },
+        "viernes": {
+            "titulo": "Upper Body Strength",
+            "ejercicios": [
+                "A. Bench Press – 5x3 @ 82–85%",
+                "B. Weighted Pull-ups – 5x4 pesado",
+                "C. Strict Ring Dips – 4x10",
+                "D. WOD – Intervalos (6 sets):",
+                "- 90s trabajo / 60s descanso",
+                "- 8 Push Press (115 lb)",
+                "- 10 Chest to Bar Pull-ups",
+                "- Max Bike Cals"
+            ]
+        },
+        "sabado": {
+            "titulo": "Competition Simulation",
+            "ejercicios": [
+                "A. Skill: Handstand Walk – 10 min",
+                "B. WOD – 'The Grinder' (cap 45’):",
+                "- 1000m Run",
+                "- 40 Front Squats (135 lb)",
+                "- 30 Toes to Bar",
+                "- 20 Clean & Jerks (155 lb)",
+                "- 15 Bar Muscle Ups",
+                "- 10 Wall Walks",
+                "- 1000m Row"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso",
+            "ejercicios": [
+                "Movilidad",
+                "Foam Rolling",
+                "Recuperación activa"
+            ]
+        }
+    }
+}

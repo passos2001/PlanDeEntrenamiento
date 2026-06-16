@@ -1,0 +1,97 @@
+{
+  "semana": 26,
+  "tipo": "Power Development",
+  "dias": {
+    "lunes": {
+      "titulo": "Jerk Development + Lower Stability",
+      "ejercicios": [
+        "A. Jerk Complex – 6 sets @ 75–80%:",
+        "- 1 Strict Press",
+        "- 1 Push Press",
+        "- 1 Split Jerk",
+        "B. Front Rack Reverse Lunges – 4x8 por pierna",
+        "C. Single Leg Box Squat – 3x8 por pierna",
+        "D. WOD – 'Fast Barbell' (cap 12’):",
+        "- 4 rondas:",
+        "- 8 Push Jerks (115 lb)",
+        "- 12 Box Jump Overs",
+        "- 10 V-Ups"
+      ]
+    },
+    "martes": {
+      "titulo": "Gymnastics Under Fatigue",
+      "ejercicios": [
+        "A. Handstand Walk Practice – 15 min",
+        "B. Ring Muscle Ups – 5x4",
+        "C. Strict Chest to Bar Pull-ups – 4x6",
+        "D. WOD – AMRAP 15:",
+        "- 4 Bar Muscle Ups",
+        "- 8 Handstand Push-ups",
+        "- 12 Toes to Bar",
+        "- 14/12 Cal Row"
+      ]
+    },
+    "miercoles": {
+      "titulo": "Snatch Power Day",
+      "ejercicios": [
+        "A. Snatch Complex – 5 sets @ 78–82%:",
+        "- 1 High Hang Snatch",
+        "- 1 Hang Snatch",
+        "- 1 Squat Snatch",
+        "B. Snatch Balance – 4x3",
+        "C. Overhead Carry – 4x30m",
+        "D. WOD – EMOM 18:",
+        "- Min 1: 8 Power Snatch (95 lb)",
+        "- Min 2: 10 Cal Bike",
+        "- Min 3: 8 Burpees Over Bar"
+      ]
+    },
+    "jueves": {
+      "titulo": "Posterior Chain Strength",
+      "ejercicios": [
+        "A. Deadlift – 5x3 @ 82%",
+        "B. Deficit Romanian Deadlift – 3x8",
+        "C. Farmer Carry – 5x150m pesado",
+        "D. WOD – 'Grip Tax' (cap 18’):",
+        "- 3 rondas:",
+        "- 300m Farmer Carry",
+        "- 15 KB Swings (32 kg)",
+        "- 12 Pull-ups"
+      ]
+    },
+    "viernes": {
+      "titulo": "Upper Strength & Density",
+      "ejercicios": [
+        "A. Bench Press – 5x4 @ 80%",
+        "B. Weighted Pull-ups – 5x5",
+        "C. DB Incline Press – 3x12",
+        "D. WOD – Ladder Ascendente (cap 14’):",
+        "- 2-4-6-8-10...",
+        "- Thrusters (75 lb)",
+        "- Chest to Bar Pull-ups"
+      ]
+    },
+    "sabado": {
+      "titulo": "Competition Style Day",
+      "ejercicios": [
+        "A. Skill: Handstand Walk – 10 min",
+        "B. WOD – 'Hybrid Chaos' (cap 45’):",
+        "- 800m Run",
+        "- 30 Dumbbell Snatch",
+        "- 25 Toes to Bar",
+        "- 20 Front Squats (135 lb)",
+        "- 15 Bar Muscle Ups",
+        "- 10 Wall Walks",
+        "- 800m Row"
+      ]
+    },
+    "domingo": {
+      "titulo": "Descanso",
+      "ejercicios": [
+        "Movilidad",
+        "Foam Rolling",
+        "Recuperación activa"
+      ]
+    }
+  }
+}
