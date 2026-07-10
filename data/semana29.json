@@ -1,0 +1,95 @@
+{
+  "semana": 29,
+  "tipo": "Transition Build",
+  "dias": {
+    "lunes": {
+      "titulo": "Jerk Technique + Pulling Capacity",
+      "ejercicios": [
+        "A. Split Jerk – 6x2 @ 70–75%, enfocándose en velocidad y recepción",
+        "B. Push Press – 4x5 @ 70%",
+        "C. Chest Supported Row – 4x10",
+        "D. WOD – 'Ascending Power' (cap 15’):",
+        "- 3-6-9-12-15...",
+        "- Push Jerks (95 lb)",
+        "- Pull-ups",
+        "- 30 Double Unders después de cada ronda"
+      ]
+    },
+    "martes": {
+      "titulo": "Lower Body Stability + Engine",
+      "ejercicios": [
+        "A. Tempo Front Squat – 4x5 (3 segundos de bajada)",
+        "B. Walking Lunges con mancuernas – 3x20 pasos",
+        "C. Sled Push – 6x20 m (pesado)",
+        "D. WOD – 5 rondas por tiempo:",
+        "- 250 m Row",
+        "- 12 Wall Balls",
+        "- 8 Devil Press (2x22.5 kg)"
+      ]
+    },
+    "miercoles": {
+      "titulo": "Snatch Skill + Gymnastics",
+      "ejercicios": [
+        "A. Snatch Complex – 5 sets:",
+        "- 1 Muscle Snatch",
+        "- 1 Power Snatch",
+        "- 1 Overhead Squat",
+        "B. Handstand Walk – 12 min de práctica",
+        "C. Rope Climbs – 5 ascensos o progresiones",
+        "D. WOD – EMOM 18:",
+        "- Min 1: 8 Toes to Bar",
+        "- Min 2: 6 Power Snatch (75 lb)",
+        "- Min 3: 10/8 Cal SkiErg o 150 m Run"
+      ]
+    },
+    "jueves": {
+      "titulo": "Posterior Chain + Grip",
+      "ejercicios": [
+        "A. Romanian Deadlift – 4x8",
+        "B. Hip Thrust – 4x10",
+        "C. Farmer Carry – 5x100 m pesado",
+        "D. WOD – 'Grip Test' (cap 16’):",
+        "- 4 rondas:",
+        "- 15 KB Swings (32 kg)",
+        "- 12 Ring Rows",
+        "- 10 Box Jump Overs",
+        "- 200 m Run"
+      ]
+    },
+    "viernes": {
+      "titulo": "Upper Strength + Mixed Skills",
+      "ejercicios": [
+        "A. Bench Press – 5x5 @ 75%",
+        "B. Weighted Pull-ups – 4x5",
+        "C. Ring Dips – 4x8",
+        "D. WOD – AMRAP 16:",
+        "- 8 Thrusters (75 lb)",
+        "- 10 Hand Release Push-ups",
+        "- 12 Sit-ups",
+        "- 14 Cal Bike"
+      ]
+    },
+    "sabado": {
+      "titulo": "Long Mixed Piece",
+      "ejercicios": [
+        "A. Skill: Double Unders – 10 min (eficiencia)",
+        "B. WOD – 'Long Grind' (cap 42’):",
+        "- 800 m Run",
+        "- 30 Dumbbell Snatch (alternando)",
+        "- 30 Toes to Bar",
+        "- 20 Overhead Squats (95 lb)",
+        "- 15 Bar Muscle Ups",
+        "- 30 Box Jump Overs",
+        "- 800 m Row"
+      ]
+    },
+    "domingo": {
+      "titulo": "Descanso",
+      "ejercicios": [
+        "Movilidad de hombros y cadera",
+        "Foam roller",
+        "Caminata ligera de 20–30 min"
+      ]
+    }
+  }
+}

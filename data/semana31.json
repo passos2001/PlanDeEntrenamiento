@@ -1,0 +1,96 @@
+{
+    "semana": 31,
+    "tipo": "Power & Competition Capacity",
+    "dias": {
+        "lunes": {
+            "titulo": "Snatch Power + Explosive Lower Body",
+            "ejercicios": [
+                "A. Snatch Complex – 6 sets @ 78–82%:",
+                "- 1 High Hang Snatch",
+                "- 1 Hang Snatch",
+                "- 1 Squat Snatch",
+                "B. Snatch Deadlift – 4x4 @ 95%",
+                "C. Depth Jumps – 5x5",
+                "D. WOD – 'Sprint Complex' (cap 14’):",
+                "- 5 rondas:",
+                "- 5 Squat Snatch (95 lb)",
+                "- 8 Lateral Bar Burpees",
+                "- 12 Double Dumbbell Front Rack Lunges"
+            ]
+        },
+        "martes": {
+            "titulo": "Upper Strength + Open Style",
+            "ejercicios": [
+                "A. Bench Press – 5x3 @ 82%",
+                "B. Weighted Chest to Bar Pull-ups – 5x5",
+                "C. Strict Handstand Push-ups – 4x8",
+                "D. WOD – Open Format (cap 16’):",
+                "- 21-15-9:",
+                "- Thrusters (95 lb)",
+                "- Chest to Bar Pull-ups",
+                "- Después de cada ronda: 30 Double Unders"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean & Jerk Efficiency",
+            "ejercicios": [
+                "A. Clean & Jerk – 8x1 @ 80–85%",
+                "B. Jerk Recoveries – 4x3",
+                "C. Front Rack Carry – 4x40 m pesado",
+                "D. WOD – EMOM 18:",
+                "- Min 1: 5 Clean & Jerks (115 lb)",
+                "- Min 2: 10 Toes to Bar",
+                "- Min 3: 12/10 Cal SkiErg o 200 m Run"
+            ]
+        },
+        "jueves": {
+            "titulo": "Strongman + Posterior Chain",
+            "ejercicios": [
+                "A. Sandbag to Shoulder – 5x5",
+                "B. Romanian Deadlift – 4x8",
+                "C. Farmer Carry – 5x80 m pesado",
+                "D. WOD – 'Heavy Carry' (cap 18’):",
+                "- 4 rondas:",
+                "- 200 m Farmer Carry",
+                "- 12 Sandbag Over Shoulder",
+                "- 15 Box Jump Overs"
+            ]
+        },
+        "viernes": {
+            "titulo": "Mixed Strength + Gymnastics Density",
+            "ejercicios": [
+                "A. Push Press – 5x4 @ 80%",
+                "B. Rope Climbs – 5 ascensos",
+                "C. Ring Muscle Ups – 5x3",
+                "D. WOD – AMRAP 18:",
+                "- 8 Push Press (95 lb)",
+                "- 6 Ring Muscle Ups",
+                "- 12 Wall Balls",
+                "- 14/12 Cal Echo Bike"
+            ]
+        },
+        "sabado": {
+            "titulo": "Quarterfinal Style Challenge",
+            "ejercicios": [
+                "A. Skill: Handstand Walk – 12 min",
+                "B. WOD – 'Quarterfinal Builder' (cap 45’):",
+                "- 800 m Run",
+                "- 40 Wall Balls",
+                "- 30 Toes to Bar",
+                "- 20 Thrusters (115 lb)",
+                "- 15 Bar Muscle Ups",
+                "- 10 Wall Walks",
+                "- 800 m Row",
+                "- 40 Double Unders"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso",
+            "ejercicios": [
+                "Movilidad",
+                "Foam rolling",
+                "Recuperación activa"
+            ]
+        }
+    }
+}

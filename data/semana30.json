@@ -1,0 +1,99 @@
+{
+  "semana": 30,
+  "tipo": "Strength & Work Capacity",
+  "dias": {
+    "lunes": {
+      "titulo": "Snatch Precision + Overhead Stability",
+      "ejercicios": [
+        "A. Snatch Complex – 6 sets @ 75–80%:",
+        "- 1 Muscle Snatch",
+        "- 1 Hang Squat Snatch",
+        "- 1 Overhead Squat",
+        "B. Snatch Balance – 4x3",
+        "C. Overhead Walking Lunges – 3x20 pasos",
+        "D. WOD – 'Overhead Madness' (cap 14’):",
+        "- 3 rondas:",
+        "- 12 Overhead Squats (75 lb)",
+        "- 10 Burpee Box Jump Overs",
+        "- 250 m Row"
+      ]
+    },
+    "martes": {
+      "titulo": "Upper Body Strength + Gymnastics",
+      "ejercicios": [
+        "A. Bench Press – 5x4 @ 80%",
+        "B. Weighted Ring Dips – 4x8",
+        "C. Pendlay Row – 4x8",
+        "D. WOD – AMRAP 18:",
+        "- 5 Bar Muscle Ups",
+        "- 10 Handstand Push-ups",
+        "- 15 Wall Balls",
+        "- 200 m Run"
+      ]
+    },
+    "miercoles": {
+      "titulo": "Clean Power + Speed",
+      "ejercicios": [
+        "A. Clean Complex – 5 sets @ 80%:",
+        "- 1 High Hang Clean",
+        "- 1 Hang Squat Clean",
+        "- 1 Split Jerk",
+        "B. Front Squat (velocidad) – 6x2 @ 65%",
+        "C. Broad Jumps – 5x5",
+        "D. WOD – EMOM 18:",
+        "- Min 1: 6 Power Cleans (135 lb)",
+        "- Min 2: 12 Toes to Bar",
+        "- Min 3: 10/8 Cal Echo Bike"
+      ]
+    },
+    "jueves": {
+      "titulo": "Posterior Chain + Strongman",
+      "ejercicios": [
+        "A. Trap Bar Deadlift – 5x5",
+        "B. Sandbag Bear Hug Carry – 5x40 m",
+        "C. Bulgarian Split Squat – 3x10 por pierna",
+        "D. WOD – 'Strong Engine' (cap 18’):",
+        "- 4 rondas:",
+        "- 15 Sandbag Over Shoulder",
+        "- 20 KB Swings (32 kg)",
+        "- 200 m Farmer Carry"
+      ]
+    },
+    "viernes": {
+      "titulo": "Mixed Strength + Conditioning",
+      "ejercicios": [
+        "A. Push Press – 5x5 @ 75%",
+        "B. Rope Climbs – 6 ascensos",
+        "C. Strict Pull-ups – 4x8",
+        "D. WOD – Chipper (cap 18’):",
+        "- 50 Double Unders",
+        "- 40 Air Squats",
+        "- 30 Push Press (75 lb)",
+        "- 20 Pull-ups",
+        "- 10 Devil Press"
+      ]
+    },
+    "sabado": {
+      "titulo": "Competition Style Benchmark",
+      "ejercicios": [
+        "A. Skill: Handstand Walk – 12 min",
+        "B. WOD – 'Full Capacity' (cap 45’):",
+        "- 1000 m Run",
+        "- 50 Wall Balls",
+        "- 40 Chest to Bar Pull-ups",
+        "- 30 Thrusters (95 lb)",
+        "- 20 Bar Muscle Ups",
+        "- 10 Rope Climbs",
+        "- 1000 m Row"
+      ]
+    },
+    "domingo": {
+      "titulo": "Descanso",
+      "ejercicios": [
+        "Movilidad general",
+        "Foam rolling",
+        "Caminata o bicicleta suave 30 min"
+      ]
+    }
+  }
+}

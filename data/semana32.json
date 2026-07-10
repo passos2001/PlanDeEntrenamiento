@@ -1,0 +1,98 @@
+{
+    "semana": 32,
+    "tipo": "Performance Peak",
+    "dias": {
+        "lunes": {
+            "titulo": "Snatch Performance + Overhead Stability",
+            "ejercicios": [
+                "A. Snatch Complex – 6 sets @ 80–85%:",
+                "- 1 High Hang Snatch",
+                "- 1 Hang Squat Snatch",
+                "- 1 Squat Snatch",
+                "B. Overhead Squat – 5x3 @ 75%",
+                "C. Snatch Pull – 4x3 @ 100%",
+                "D. WOD – 'Lightning Barbell' (cap 14’):",
+                "- 5 rondas:",
+                "- 6 Squat Snatch (95 lb)",
+                "- 10 Lateral Burpees Over Bar",
+                "- 12 Box Jump Overs"
+            ]
+        },
+        "martes": {
+            "titulo": "Upper Body Power + Gymnastics",
+            "ejercicios": [
+                "A. Bench Press – 5x3 @ 85%",
+                "B. Weighted Ring Muscle Ups – 5x2",
+                "C. Deficit Handstand Push-ups – 4x6",
+                "D. WOD – AMRAP 16:",
+                "- 5 Ring Muscle Ups",
+                "- 10 Push Press (95 lb)",
+                "- 15 Toes to Bar",
+                "- 200 m Run"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean & Jerk Heavy Technique",
+            "ejercicios": [
+                "A. Clean & Jerk – 7x1 @ 82–88%",
+                "B. Clean Pull – 4x3 @ 100%",
+                "C. Front Rack Carry – 4x50 m pesado",
+                "D. WOD – Every 4' x 4 rondas:",
+                "- 8 Clean & Jerks (135 lb)",
+                "- 12 Wall Balls",
+                "- Tiempo restante: descanso"
+            ]
+        },
+        "jueves": {
+            "titulo": "Posterior Chain + Strongman Flow",
+            "ejercicios": [
+                "A. Deficit Deadlift – 5x4 @ 80%",
+                "B. Sandbag Bear Hug Carry – 5x50 m",
+                "C. Nordic Hamstring Curl – 3x6",
+                "D. WOD – 'Carry & Climb' (cap 18’):",
+                "- 3 rondas:",
+                "- 150 m Farmer Carry",
+                "- 10 Rope Climbs",
+                "- 15 Box Step Overs con mancuernas"
+            ]
+        },
+        "viernes": {
+            "titulo": "Shoulder Strength + Mixed Conditioning",
+            "ejercicios": [
+                "A. Split Jerk – 6x2 @ 80%",
+                "B. Strict Pull-ups – 5x8",
+                "C. Dumbbell Arnold Press – 3x12",
+                "D. WOD – Chipper (cap 18’):",
+                "- 60 Double Unders",
+                "- 40 Wall Balls",
+                "- 30 Push Jerks (95 lb)",
+                "- 20 Chest to Bar Pull-ups",
+                "- 10 Devil Press (2x22.5 kg)"
+            ]
+        },
+        "sabado": {
+            "titulo": "Competition Benchmark",
+            "ejercicios": [
+                "A. Skill: Handstand Walk – 15 min",
+                "B. WOD – 'Ultimate Capacity' (cap 45’):",
+                "- 1000 m Run",
+                "- 50 Wall Balls",
+                "- 40 Toes to Bar",
+                "- 30 Thrusters (95 lb)",
+                "- 20 Bar Muscle Ups",
+                "- 15 Wall Walks",
+                "- 10 Squat Clean & Jerks (155 lb)",
+                "- 1000 m Row"
+            ]
+        },
+        "domingo": {
+            "titulo": "Descanso",
+            "ejercicios": [
+                "Movilidad completa",
+                "Foam rolling",
+                "Recuperación activa",
+                "Evaluación del bloque 29–32"
+            ]
+        }
+    }
+}
