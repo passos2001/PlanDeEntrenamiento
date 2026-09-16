@@ -1,0 +1,117 @@
+{
+    "semana": 41,
+    "enfoque": "Cierre del bloque con énfasis en fuerza, potencia y gimnasia, consolidando la capacidad de sostener el volumen creciente del reto sin sacrificar calidad.",
+    "dias": {
+        "lunes": {
+            "titulo": "Power Snatch + Tirón Pesado",
+            "ejercicios": [
+                "A. Power Snatch – 6x2 @ 78-83%",
+                "B. Snatch High Pull – 4x3 @ 90-100% del Snatch",
+                "C. Weighted Pull-ups – 5x4",
+                "D. Barbell Row – 4x8",
+                "E. Ring Dips lastrados – 4x6-8",
+                "F. Hanging Leg Raises – 4x12",
+                "G. Burpees – Día 278",
+                "- 10 rondas de 20 burpees = 200",
+                "- 78 burpees restantes en 26 + 26 + 26",
+                "- Descanso: 75-90s entre bloques",
+                "- Total: 278 burpees"
+            ]
+        },
+        "martes": {
+            "titulo": "Gimnasia Avanzada + Press",
+            "ejercicios": [
+                "A. Handstand Walk – 8x25-35m",
+                "B. Strict Handstand Push-ups – 5x6-8",
+                "C. Ring Muscle-Up – 6x3-4",
+                "D. Deficit Handstand Push-ups – 3x5",
+                "E. Chest-to-Bar Pull-ups – 4x10",
+                "F. Toes-to-Bar – 4x15",
+                "G. Dumbbell Shoulder Press – 3x10",
+                "H. Burpees – Día 279",
+                "- 20 rondas de 13 burpees = 260",
+                "- 19 burpees finales",
+                "- Descanso: 45-60s entre rondas",
+                "- Total: 279 burpees"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Clean Complex + Potencia de Pierna",
+            "ejercicios": [
+                "A. Clean Complex – 5 rondas: 1 Clean Pull + 1 Hang Squat Clean + 1 Squat Clean + 1 Jerk",
+                "B. Clean Pull – 4x3 @ 95-105% del Clean",
+                "C. Box Jump – 5x5",
+                "D. Front Rack Reverse Lunge – 4x8 por pierna",
+                "E. Nordic Hamstring Curl – 3x6-8",
+                "F. Ab Wheel – 4x10-12",
+                "G. Burpees – Día 280",
+                "- 4 rondas de 50 burpees = 200",
+                "- 80 burpees restantes en 30 + 25 + 25",
+                "- Descanso: 2:00-2:30 entre bloques",
+                "- Total: 280 burpees"
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift + Fuerza Unilateral",
+            "ejercicios": [
+                "A. Deadlift – 6x2 @ 82-87%",
+                "B. Paused Deadlift – 3x3 @ 70%",
+                "C. Bulgarian Split Squat – 4x8 por pierna",
+                "D. Single-Leg Romanian Deadlift – 3x10 por pierna",
+                "E. Heavy Farmer Carry – 5x40m",
+                "F. Copenhagen Plank – 3x30s por lado",
+                "G. Burpees – Día 281",
+                "- 9 rondas de 20 burpees = 180",
+                "- 101 burpees restantes en 35 + 35 + 31",
+                "- Descanso: 90s entre bloques",
+                "- Total: 281 burpees"
+            ]
+        },
+        "viernes": {
+            "titulo": "Jerk + Gimnasia de Empuje y Tirón",
+            "ejercicios": [
+                "A. Split Jerk – 6x2 @ 80-87%",
+                "B. Push Press – 4x4 @ 75-80%",
+                "C. Strict Pull-ups – 4x8",
+                "D. Handstand Push-ups – 4x8-10",
+                "E. Ring Dips – 4x10",
+                "F. L-Sit – 5x25-30s",
+                "G. Burpees – Día 282",
+                "- 12 rondas de 20 burpees = 240",
+                "- 42 burpees restantes en 15 + 15 + 12",
+                "- Descanso: 60-90s entre bloques",
+                "- Total: 282 burpees"
+            ]
+        },
+        "sabado": {
+            "titulo": "Clean & Jerk + Día de Rendimiento",
+            "ejercicios": [
+                "A. Clean & Jerk – 7x1 @ 82-88%",
+                "B. Front Squat – 4x3 @ 75-80%",
+                "C. Handstand Walk – 6x30m",
+                "D. Toes-to-Bar – 4x15",
+                "E. Sandbag Carry – 5x50m",
+                "F. Dumbbell Bench Press – 4x8",
+                "G. Burpees – Día 283",
+                "- 12 rondas de 20 burpees = 240",
+                "- 43 burpees restantes en 15 + 15 + 13",
+                "- Descanso: 75-90s entre bloques",
+                "- Total: 283 burpees"
+            ]
+        },
+        "domingo": {
+            "titulo": "Burpees – Cierre del Bloque",
+            "ejercicios": [
+                "A. Burpees – Día 284",
+                "- 14 rondas de 20 burpees = 280",
+                "- 4 burpees finales",
+                "- Ritmo controlado durante todo el trabajo",
+                "- Total: 284 burpees",
+                "B. Recuperación",
+                "- 15-20 min de movilidad suave",
+                "- Caminata ligera opcional",
+                "- Hidratación y recuperación"
+            ]
+        }
+    }
+}

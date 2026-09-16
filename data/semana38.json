@@ -1,0 +1,111 @@
+{
+  "semana": 38,
+  "enfoque": "Reinicio del proceso con prioridad al reto diario de burpees, manteniendo fuerza, gimnasia, levantamientos olímpicos y accesorios sin generar fatiga innecesaria antes de los burpees.",
+  "dias": {
+    "lunes": {
+      "titulo": "Power Clean + Gimnasia de Tirón",
+      "ejercicios": [
+        "A. Power Clean – 6x3 @ 70-75%",
+        "B. Weighted Pull-ups – 5x5",
+        "C. Ring Dips – 4x8-10",
+        "D. Chest-to-Bar Pull-ups – 4x8",
+        "E. Hollow Body Hold – 4x30-40s",
+        "F. Burpees – Día 257",
+        "- 9 rondas de 20 burpees = 180",
+        "- Descanso: 60-75s entre rondas",
+        "- 77 burpees restantes en sets de 15-20",
+        "- Total: 257 burpees"
+      ]
+    },
+    "martes": {
+      "titulo": "Push Press + Handstand Skills",
+      "ejercicios": [
+        "A. Push Press – 5x5 @ 70-75%",
+        "B. Handstand Walk – 6x15-25m",
+        "C. Handstand Push-ups – 5x6-10",
+        "D. Single-Arm Dumbbell Row – 4x10 por lado",
+        "E. Face Pulls – 4x15",
+        "F. Burpees – Día 258",
+        "- 18 rondas de 14 burpees = 252",
+        "- 6 burpees finales",
+        "- Descanso: 45-60s entre rondas",
+        "- Total: 258 burpees"
+      ]
+    },
+    "miercoles": {
+      "titulo": "Snatch Complex + Pierna Unilateral",
+      "ejercicios": [
+        "A. Snatch Complex – 5 rondas: 1 Hang Power Snatch + 1 Power Snatch + 1 Overhead Squat",
+        "B. Bulgarian Split Squat – 4x8 por pierna",
+        "C. Romanian Deadlift – 4x8",
+        "D. Seated Box Jump – 4x5",
+        "E. Ab Wheel – 4x10-12",
+        "F. Burpees – Día 259",
+        "- 5 rondas de 40 burpees = 200",
+        "- 59 burpees restantes en sets sostenibles",
+        "- Descanso: 2:00-2:30 entre bloques",
+        "- Total: 259 burpees"
+      ]
+    },
+    "jueves": {
+      "titulo": "Deadlift + Accesorios de Cadena Posterior",
+      "ejercicios": [
+        "A. Deadlift – 5x4 @ 72-78%",
+        "B. Barbell Hip Thrust – 4x8",
+        "C. Single-Leg Romanian Deadlift – 3x10 por pierna",
+        "D. Farmer Carry – 4x30-40m pesado",
+        "E. Hanging Knee Raises – 4x12",
+        "F. Burpees – Día 260",
+        "- 10 rondas de 20 burpees = 200",
+        "- 60 burpees restantes en 3 sets de 20",
+        "- Descanso: 20-25s entre los sets finales",
+        "- Total: 260 burpees"
+      ]
+    },
+    "viernes": {
+      "titulo": "Ring Muscle-Up + Pressing",
+      "ejercicios": [
+        "A. Ring Muscle-Up – 6x3-5",
+        "B. Strict Handstand Push-ups – 4x6-8",
+        "C. Dumbbell Bench Press – 4x10",
+        "D. Barbell Row – 4x8",
+        "E. L-Sit – 5x20-30s",
+        "F. Burpees – Día 261",
+        "- 9 rondas de 20 burpees = 180",
+        "- 81 burpees restantes en sets de 15-20",
+        "- Descanso: 60-90s entre bloques",
+        "- Total: 261 burpees"
+      ]
+    },
+    "sabado": {
+      "titulo": "Clean & Jerk + Full Body",
+      "ejercicios": [
+        "A. Clean & Jerk – 6x2 @ 70-80%",
+        "B. Front Rack Reverse Lunge – 4x8 por pierna",
+        "C. Toes-to-Bar – 4x12-15",
+        "D. Handstand Walk – 5x25m",
+        "E. Farmer Carry pesado – 4x40m",
+        "F. Sandbag Carry – 4x40m",
+        "G. Burpees – Día 262",
+        "- 12 rondas de 18 burpees = 216",
+        "- 46 burpees restantes",
+        "- Dividir las 46 restantes en 20 + 15 + 11",
+        "- Descanso: 60-90s entre bloques",
+        "- Total: 262 burpees"
+      ]
+    },
+    "domingo": {
+      "titulo": "Burpees + Recuperación",
+      "ejercicios": [
+        "A. Burpees – Día 263",
+        "- 13 rondas de 20 burpees = 260",
+        "- 3 burpees finales",
+        "- Ritmo cómodo y técnico",
+        "- Total: 263 burpees",
+        "B. Recuperación",
+        "- 10-15 min de movilidad suave",
+        "- Caminata ligera opcional"
+      ]
+    }
+  }
+}
