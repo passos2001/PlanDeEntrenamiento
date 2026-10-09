@@ -1,0 +1,128 @@
+{
+    "semana": 44,
+    "enfoque": "Progresión de fuerza, potencia y gimnasia con el reto diario de burpees como entrenamiento principal de acondicionamiento. Se prioriza la calidad técnica, la variedad de estímulos y la gestión de la fatiga acumulada.",
+    "dias": {
+        "lunes": {
+            "titulo": "Bench Press + Fuerza de Tirón",
+            "ejercicios": [
+                "A. Bench Press – 5x3 @ 78-82%",
+                "B. Weighted Pull-ups – 5x4",
+                "C. Pendlay Row – 4x6-8",
+                "D. Dumbbell Incline Press – 3x10",
+                "E. Ring Dips – 3x8",
+                "F. Hanging Leg Raises – 4x12",
+                "G. Burpees – Día 299",
+                "- Bloque 1: 5 rondas de 20 burpees = 100",
+                "- Descanso: 2:00",
+                "- Bloque 2: 5 rondas de 20 burpees = 100",
+                "- Descanso: 2:00",
+                "- Bloque 3: 4 rondas de 20 burpees = 80",
+                "- Completar 19 burpees finales",
+                "- Total: 299 burpees"
+            ]
+        },
+        "martes": {
+            "titulo": "Gimnasia Avanzada + Fuerza de Empuje",
+            "ejercicios": [
+                "A. Handstand Walk – 6x25-35m",
+                "B. Strict Handstand Push-ups – 5x6-8",
+                "C. Ring Muscle-Up – 6x3",
+                "D. Chest-to-Bar Pull-ups – 4x8-10",
+                "E. Dumbbell Shoulder Press – 3x10",
+                "F. Toes-to-Bar – 4x12-15",
+                "G. Burpees – Día 300",
+                "- 15 rondas de 20 burpees = 300",
+                "- Descanso: 60-90s entre rondas",
+                "- Mantener un ritmo sostenible y dividir las series cuando sea necesario",
+                "- Total: 300 burpees"
+            ]
+        },
+        "miercoles": {
+            "titulo": "Snatch Complex + Potencia de Pierna",
+            "ejercicios": [
+                "A. Snatch Complex – 5 rondas: 1 Hang Power Snatch + 1 Squat Snatch",
+                "B. Snatch Pull – 4x3 @ 90-100% del Snatch",
+                "C. Box Jump – 4x4",
+                "D. Bulgarian Split Squat – 3x8 por pierna",
+                "E. Romanian Deadlift – 3x8",
+                "F. Ab Wheel – 4x10-12",
+                "G. Burpees – Día 301",
+                "- Bloque 1: 4 rondas de 30 burpees = 120",
+                "- Descanso: 2:30",
+                "- Bloque 2: 4 rondas de 30 burpees = 120",
+                "- Descanso: 2:30",
+                "- Completar 61 burpees en 25 + 20 + 16",
+                "- Total: 301 burpees"
+            ]
+        },
+        "jueves": {
+            "titulo": "Deadlift + Fortalecimiento de Cadena Posterior",
+            "ejercicios": [
+                "A. Deadlift – 5x3 @ 78-83%",
+                "B. Barbell Hip Thrust – 4x8",
+                "C. Seated o Lying Leg Curl – 4x10-12",
+                "D. Single-Leg Romanian Deadlift – 3x8 por pierna",
+                "E. Farmer Carry pesado – 4x40m",
+                "F. Side Plank – 3x40s por lado",
+                "G. Burpees – Día 302",
+                "- Bloque 1: 6 rondas de 25 burpees = 150",
+                "- Descanso: 2:30",
+                "- Bloque 2: 5 rondas de 25 burpees = 125",
+                "- Completar 27 burpees finales",
+                "- Total: 302 burpees"
+            ]
+        },
+        "viernes": {
+            "titulo": "Clean & Jerk + Fuerza de Hombros",
+            "ejercicios": [
+                "A. Clean & Jerk – 6x1 @ 80-85%",
+                "B. Strict Press – 4x5 @ 70-75%",
+                "C. Strict Pull-ups – 4x8",
+                "D. Ring Dips – 3x10",
+                "E. Dumbbell Lateral Raise – 3x12-15",
+                "F. L-Sit – 5x20-30s",
+                "G. Burpees – Día 303",
+                "- Bloque 1: 8 rondas de 20 burpees = 160",
+                "- Descanso: 2:00",
+                "- Bloque 2: 6 rondas de 20 burpees = 120",
+                "- Completar 23 burpees finales",
+                "- Total: 303 burpees"
+            ]
+        },
+        "sabado": {
+            "titulo": "Power Clean + Gimnasia y Cargas",
+            "ejercicios": [
+                "A. Power Clean – 6x2 @ 78-83%",
+                "B. Push Jerk – 5x3 @ 72-80%",
+                "C. Handstand Walk – 5x25-30m",
+                "D. Toes-to-Bar – 4x15",
+                "E. Sandbag Carry – 5x40m",
+                "F. Dumbbell Bench Press – 3x10",
+                "G. Burpees – Día 304",
+                "- Bloque 1: 5 rondas de 25 burpees = 125",
+                "- Descanso: 2:30",
+                "- Bloque 2: 5 rondas de 25 burpees = 125",
+                "- Descanso: 2:30",
+                "- Completar 54 burpees en 20 + 20 + 14",
+                "- Total: 304 burpees"
+            ]
+        },
+        "domingo": {
+            "titulo": "Burpees + Recuperación",
+            "ejercicios": [
+                "A. Burpees – Día 305",
+                "- Bloque 1: 5 rondas de 20 burpees = 100",
+                "- Descanso: 2:00",
+                "- Bloque 2: 5 rondas de 20 burpees = 100",
+                "- Descanso: 2:00",
+                "- Bloque 3: 5 rondas de 20 burpees = 100",
+                "- Completar 5 burpees finales",
+                "- Total: 305 burpees",
+                "B. Recuperación",
+                "- 10-15 minutos de movilidad suave",
+                "- Caminata ligera opcional",
+                "- Priorizar hidratación, alimentación y sueño"
+            ]
+        }
+    }
+}
